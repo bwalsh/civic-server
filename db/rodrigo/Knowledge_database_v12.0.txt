@@ -1,0 +1,518 @@
+Disease	Gene	Variant	Description	Effect	Association_1	Therapeutic context_1	Status_1	Evidence_1	PMID_1	Association_2 	Therapeutic context_2	Status_2	Evidence_2	PMID_2	Association_3 	Therapeutic context_3	Status_3	Evidence_3	PMID_3	Association_4 	Therapeutic context_4	Status_4	Evidence_4	PMID_4	Association_5 	Therapeutic context_5	Status_5	Evidence_5	PMID_5	Association _6	Therapeutic context_6	Status_6	Evidence_6	PMID_6	Association_7 	Therapeutic context_7	Status_7	Evidence_7	PMID_8	Association_8 	Therapeutic context_8	Status_8	Evidence_8	PMID_8
+ALL	ABL1	T315A	missense mutation	gain-of-function	response	"  nilotinib, ponatinib"	NCCN guidelines	consensus	NCCN																																			
+ALL	ABL1	T315I	missense mutation	gain-of-function	response	  ponatinib	NCCN guidelines	consensus	NCCN	response	AURK inhibitors + BCR-ABL1 inhibitors	case report	emerging	22772060	response	axitinib	case report	emerging	25686603																									
+ALL	ABL1	F317L/V/I/C	missense mutation	gain-of-function	response	"  nilotinib, ponatinib"	NCCN guidelines	consensus	NCCN																																			
+ALL	ABL1	F359V/C/I	missense mutation	gain-of-function	response	"  dasatinib, ponatinib"	NCCN guidelines	consensus	NCCN																																			
+CML	ABL1	T315A	missense mutation	gain-of-function	response	"  nilotinib, bosutinib, ponatinib"	NCCN guidelines	consensus	21562040																																			
+CML	ABL1	T315I	missense mutation	gain-of-function	response	  ponatinib	NCCN guidelines	consensus	21562040																																			
+CML	ABL1	F317L/V/I/C	missense mutation	gain-of-function	response	"  nilotinib, bosutinib, ponatinib"	NCCN guidelines	consensus	21562040																																			
+CML	ABL1	F359V/C/I	missense mutation	gain-of-function	response	"  dasatinib, bosutinib, ponatinib"	NCCN guidelines	consensus	21562040																																			
+ALL	ABL1	Y253H	missense mutation	gain-of-function	response	"  dasatinib, ponatinib"	NCCN guidelines	consensus	NCCN																																			
+ALL	ABL1	E255K/V	missense mutation	gain-of-function	response	"  dasatinib, ponatinib"	NCCN guidelines	consensus	NCCN																																			
+ALL	ABL1	V299L	missense mutation	gain-of-function	response	"  nilotinib, ponatinib"	NCCN guidelines	consensus	NCCN																																			
+CML	ABL1	Y253H	missense mutation	gain-of-function	response	"  dasatinib, bosutinib, ponatinib"	NCCN guidelines	consensus	21562040																																			
+CML	ABL1	E255K/V	missense mutation	gain-of-function	response	"  dasatinib, bosutinib, ponatinib"	NCCN guidelines	consensus	21562040																																			
+CML	ABL1	V299L	missense mutation	gain-of-function	response	"  nilotinib, ponatinib"	NCCN guidelines	consensus	21562040																																			
+Ovarian	AKT1	E17K	missense mutation	gain-of-function	response	AKT inhibitors	case report	emerging	AACR 2013 (abstr LB-66)																																			
+Breast	AKT1	E17K	missense mutation	gain-of-function	sensitivity	AKT inhibitors	preclinical	emerging	"21464312, 17611497"																																			
+Cancer	AKT1	E17K	missense mutation	gain-of-function	sensitivity	AKT inhibitors	preclinical	emerging	"21464312, 17611497, 23134728"																																			
+Fibrous Histiocytoma	AKT1	H238Y	missense mutation	gain-of-function	response	everolimus	case report	emerging	ASCO 2015 (abstr 11010)																																			
+Melanoma	AKT1	Q79K	missense mutation	gain-of-function	resistance	BRAF inhibitors	preclinical	emerging	24265152																																			
+Cancer	AKT2	amplification	copy number gain	gain-of-function	sensitivity	AKT inhibitors	preclinical	emerging	ENA 2014 (abstr 373)																																			
+Breast	AKT3	rearrangement	fusion gene	gain-of-function	sensitivity	ATP-competitive AKT inhibitors	preclinical	emerging	22722202																																			
+Inflammatory_myofibroblastic_tumor	ALK	rearrangement	fusion gene	gain-of-function	response	crizotinib	case report	emerging	20979472																																			
+Lung_adeno	ALK	rearrangement	fusion gene	gain-of-function	response 	"crizotinib, ceritinib"	FDA-approved	consensus	FDA	response	novel ALK inhibitors	early trials	emerging	23639470	response 	HSP90 inhibitors	early trials	emerging	23553849	sensitivity	ALK inhibitors + IGF1R inhibitors	preclinical	emerging	25173427	sensitivity	ALK inhibitors + SRC inhibitors	preclinical	emerging	25394791															
+ALL	ALK	F856S	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	26032424																																			
+ALL	ALK	A348D	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	26032424																																			
+Lung_adeno	ALK	L1196M	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784	response	ceritinib	FDA-approved	consensus	"24670165, 24327273"						 																								
+Lung_adeno	ALK	L1152R	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784																																			
+Lung_adeno	ALK	 C1156Y	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784																																			
+Lung_adeno	ALK	F1174L	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784	sensitivity	novel ALK inhibiors	preclinical	emerging	24327273																														
+Lung_adeno	ALK	G1202R	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784																																			
+Lung_adeno	ALK	 S1206Y	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784	response	ceritinib	FDA-approved	consensus	24670165																														
+Lung_adeno	ALK	G1269A	missense mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784	response	ceritinib	FDA-approved	consensus	24670165																														
+Lung_adeno	ALK	 1151Tins	insertion mutation	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784	response	ceritinib	FDA-approved	consensus	24670165																														
+Lung_adeno	ALK	I1171T	missense mutation	gain-of-function	resistance	"crizotinib, alectinib"	case report	emerging	25228534	response	ceritinib	FDA-approved	consensus	25228534																														
+Lung_adeno	ALK	amplification	copy number gain	gain-of-function	 resistance 	crizotinib	case report	emerging	22277784																																			
+Lymphoma	ALK	rearrangement	fusion gene	gain-of-function	response	crizotinib	early trials	emerging	24491302																																			
+Thyroid	ALK	rearrangement	fusion gene	gain-of-function	response	crizotinib	case report	emerging	24687827																																			
+Brain	ALK	R1275Q 	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	22072639																																			
+Brain	ALK	F1174L	missense mutation	gain-of-function	reduced sensitivity	crizotinib	preclinical	emerging	22072639																																			
+Brain	ALK	G1128A	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	22072639																																			
+Brain	ALK	I1171N 	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	22072639																																			
+Brain	ALK	R1192P	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	22072639																																			
+Brain	ALK	F1245C	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	22072639																																			
+Colorectal	APC	any	mutation	loss-of-function	sensitivity	tankyrase inhibitors	preclinical	emerging	"22440753, 23539443 "																																			
+Prostate	AR 	F876L 	missense mutation	gain-of-function	resistance 	"enzalutamide, ARN-509"	case report	emerging	23779130																																			
+Prostate	AR 	T877A	missense mutation	gain-of-function	resistance 	flutamide	case report	emerging	2260966	sensitivity	"enzalutamide, ARN-509"	preclinical	emerging	23779130																														
+Prostate	AR 	W741	missense mutation	gain-of-function	resistance 	bicalutamide	preclinical	emerging	12517791	sensitivity	"enzalutamide, ARN-509"	preclinical	emerging	23779130																														
+Prostate	AR 	amplification	copy number gain	gain-of-function	sensitivity	next-generation AR antagonists 	preclinical	emerging	"23589709, 21859989"																																			
+Lung_adeno	ARAF	S214C	missense mutation	gain-of-function	response	sorafenib	case report	emerging	24569458																																			
+Colorectal	ARAF	unknown	mutation	gain-of-function	resistance	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	case report	emerging	ENA 2014 (abstr 428)																																			
+Ovarian	ARID1A	any	mutation	loss-of-function	sensitivity	EZH2 inhibitor	preclinical	emerging	25686104																																			
+Prostate	AR-V7	splice variant mRNA	amplification	gain-of-function	resistance	"enzalutamide, abiraterone"	early trials	emerging	25184630																																			
+Brain	ATM	any	mutation	loss-of-function	sensitivity	temozolomide	preclinical	emerging	23960094																																			
+Lymphoma	ATM	any	mutation or copy number loss	loss-of-function	sensitivity	DNA-PKc inhibitors	preclinical	emerging	23761041																																			
+Gastric	ATM	any	mutation or copy number loss	loss-of-function	response	PARP inhibitors	early trials	emerging	ENA 2014 (abstr 8LBA)																																			
+Brain	ATR	any	mutation	loss-of-function	sensitivity	temozolomide	preclinical	emerging	23960094																																			
+Cancer	ATR	any	mutation or copy number loss	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	23548269																																			
+Cancer	AURKA	amplification	copy number gain	gain-of-function	sensitivity	AURK inhibitors	preclinical	emerging	22302096																																			
+Prostate	AURKA	amplification	copy number gain	gain-of-function	sensitivity	AURK inhibitors	preclinical	emerging	22389870																																			
+Cancer	BAP1	any	mutation or copy number loss	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	22683710																																			
+Melanoma	BAP1	any	mutation or copy number loss	loss-of-function	sensitivity	HDAC inhibitors	preclinical	emerging	22038994																																			
+Renal	BAP1	any	mutation or copy number loss 	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	22683710																																			
+Lymphoma	BCL2	amplification	copy number gain	gain-of-function	sensitivity	BCL2 inhibitors	preclinical	emerging	22649144																																			
+ALL	BCR-ABL1	rearrangement	fusion gene	gain-of-function	response	"imatinib, dasatinib, ponatinib"	FDA-approved	consensus	FDA																																			
+ALL	BCR-ABL1	rearrangement	fusion gene	gain-of-function	response	nilotinib	NCCN guidelines	consensus	NCCN																																			
+ALL	BCR-ABL1	rearrangement	fusion gene	gain-of-function	response	"imatinib, dasatinib, ponatinib"	FDA-approved	consensus	FDA																																			
+CML	BCR-ABL1	rearrangement	fusion gene	gain-of-function	response	"imatinib, dasatinib, nilotinib, bosutinib, ponatinib"	FDA-approved	consensus	FDA																																			
+ALL	BCR-JAK2	rearrangement	fusion gene	gain-of-function	sensitivity	ruxolitinib	preclinical	emerging	22897847																																			
+Brain	BRAF	V600E	missense mutation	gain-of-function	sensitivity	BRAF inhibitors	preclinical	emerging	"22038996, 22586120"																																			
+Colorectal	BRAF	V600E	missense mutation	gain-of-function	resistance	"cetuximab, panitumumab"	late trials	emerging	"20619739, 21163703, 23325582  "	response	BRAF inhibitors +/- MEK inhibitors	early trials	emerging	"22608338, ASCO 2015 (abstr 103)"	response	BRAF inhibitors + MEK inhibitors + anti-EGFR mAbs	early trials	emerging	" ASCO 2014 (abstr 3515), ASCO 2015 (abstr 103) "	response	BRAF inhibitors + anti-EGFR mAbs +/- PI3K pathway inhibitors	early trials	emerging	ENA 2014 (abstr 11LBA)	sensitivity	proteosome inhibitors	preclinical	emerging	24107445	sensitivity	mTOR inhibitors + BH3 mimetics	preclinical	emerging	24163374										
+GIST	BRAF	V600E	missense mutation	gain-of-function	response	dabrafenib	case report	emerging	"23470635, 22608338"																																			
+Hairy cell leukemia	BRAF	V600E	missense mutation	gain-of-function	response	vemurafenib	case report	emerging	22621641																																			
+Lung_adeno	BRAF	V600E	missense mutation	gain-of-function	resistance	EGFR TKIs 	case report	emerging	22773810	response	dabrafenib 	early trials	emerging	" 23524406, 22608338, ASCO 2013 (abstr 8009), ESMO 2014 (abstr LBA38_PR)"	response	vemurafenib	case report	emerging	22743296	response	dabrafenib + trametinib	early trials	emerging	ASCO2015 (abstr 8006)																				
+Lung_adeno	BRAF	Y472C	missense mutation	reduced kinase activity	response	dasatinib	case report	emerging	22649091																																			
+Ovarian	BRAF	V600E	missense mutation	gain-of-function	response	dabrafenib	case report	emerging	22608338	sensitivity	MEK inhibitors	preclinical	emerging	19018267																														
+Lung_adeno	BRAF	G466V	missense mutation	reduced kinase activity	sensitivity	dasatinib	preclinical	emerging	22649091																																			
+Melanoma	BRAF	rearrangement	fusion gene	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	24345920	sensitivity	sorafenib	preclinical	emerging	238900088																														
+Prostate	BRAF	rearrangement	fusion gene	gain-of-function	sensitivity	"sorafenib, MEK inhibitors"	preclinical	emerging	20526349																																			
+Lung_adeno 	BRAF	rearrangement	fusion gene	gain-of-function	sensitivity	"sorafenib, MEK inhibitors"	preclinical	emerging	24727320																																			
+Lung_adeno	BRAF 	G469A 	missense mutation	gain-of-function	resistance	EGFR TKIs	case report	emerging	22773810	sensitivity	EGFR TKIs + MEK inhibitors in EGFR mutant 	preclinical	emerging	22773810																														
+Melanoma	BRAF 	V600E	missense mutation	gain-of-function	response	"vemurafenib, dabrafenib, trametinib, dabrafenib + trametinib"	FDA-approved	consensus	FDA	response	 BRAF inhibitors	early trials	emerging	ASCO 2013 (abstr 9028)	sensitivity	BRAF inhibitors + PI3K pathway inhibitors 	preclinical	emerging	"22389471, 21156289 "	sensitivity	BRAF inhibitors + HSP90 inhibitors	preclinical	emerging	22351686	sensitivity	BRAF inhibitors + CDK2/4 inhibitors	preclinical	emerging	22997239	sensitivity	ERK inhibitors	preclinical	emerging 	"23614898, 22997239"										
+Melanoma	BRAF 	V600K	missense mutation	gain-of-function	response	"trametinib, dabrafenib + trametinib"	FDA-approved	consensus	FDA	response	vemurafenib	late trials	emerging	22356324																														
+Melanoma	BRAF 	V600R	missense mutation	gain-of-function	response	BRAF inhibitors	early trials	emerging	23237741	response	MEK inhibitors	case report	emerging	23248257																														
+Melanoma	BRAF 	K601R	missense mutation	gain-of-function	response	MEK inhibitors	case report	emerging	23248257																																			
+Melanoma	BRAF 	L597R	missense mutation	gain-of-function	response	"trametinib, MEK inhibitors"	case report	emerging	"22805292, 22798288"	response	BRAF inhibitors	case report	emerging	23715574																														
+Myeloma	BRAF 	V600E	missense mutation	gain-of-function	response	vemurafenib	case report	emerging	23612012																																			
+Thyroid	BRAF 	V600E	missense mutation	gain-of-function	response	"vemurafenib, dabrafenib"	early trials	emerging	"22608338, 20818844, 23489023"	response	MEK inhibitors	early trials	emerging	22241789	response	MEK-inhibitor enhanced radioiodine uptake	early trials	emerging	23406027	response	BRAF inhibitors + MEK inhibitors	early trials	emerging	ASCO 2013 (abstr 9029)																				
+Melanoma	BRAF 	D594G	missense mutation	gain-of-function (low activity)	sensitivity	 sorafenib	preclinical	emerging	18794803																																			
+Melanoma	BRAF 	G469E 	missense mutation	gain-of-function (low activity)	sensitivity	sorafenib	preclinical	emerging	18794803																																			
+Breast	BRCA1	any	mutation 	loss-of-function 	response	PARP inhibitors	early trials	emerging	"20609467, 25366685"	response	platinum agents	early trials	emerging	25847936																														
+Cancer	BRCA1	any	mutation	loss-of-function	response	WEE1 inhibitors	case report	emerging	25964244																																			
+Ovarian	BRCA1	any	mutation 	loss-of-function	response	PARP inhibitors	late trials 	emerging	"20609468, 20406929, 21862407, 25366685"	response	platinum agents	late trials	emerging	"22406760, 22711857 "	response	PARP inhibitors + chemotherapy	early trials	emerging	"22307137, ASCO 2012 (abstr 1009)"																									
+Prostate	BRCA1	any	mutation	loss-of-function	response	PARP inhibitors 	case report	emerging 	"19553641, 25366685"																																			
+Pancreatic	BRCA1	any	mutation	loss-of-function	response	PARP inhibitors 	case report	emerging 	"25366685, 25719666"	 																																		
+Ovarian	BRCA1	deletion	copy number loss	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	22392482																																			
+Breast	BRCA2	any	mutation 	loss-of-function 	response	PARP inhibitors	early trials	emerging	20609467	response	platinum agents	early trials	emerging	25847936																														
+Ovarian	BRCA2	any	mutation	loss-of-function	response	PARP inhibitors	late trials 	emerging	"20609468, 20406929, 21862407 "	response	platinum agents	late trials	emerging	"22406760, 22711857 "	response	PARP inhibitors + chemotherapy	early trials	emerging	"22307137, ASCO 2012 (abstr 1009)"																									
+Prostate	BRCA2	any	mutation	loss-of-function	response	PARP inhibitors 	case report	emerging 	19553641																																			
+Ovarian	BRCA2	deletion	copy number loss	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	22392482																																			
+Pancreatic	BRCA2	any	mutation	loss-of-function	response	platinum	case report	emerging	25719666																																			
+NUT midline carcinoma	BRD4	BRD4-NUT fusion	rearrangement	gain-of-function	sensitivity	BET inhibitors	preclinical	emerging	20871596																																			
+CLL	BTK	C481S	missense mutation	gain-of-function	resistance	ibrutinib	early trials	emerging	24869598																																			
+Mantle cell lymphoma	BTK	C481	missense mutation	gain-of-function	resistance	ibrutinib	case report	emerging	25082755																																			
+MPN	CBL	Y371H	missense mutation	gain-of-function	sensitivity	"JAK inhibitors, dasatinib"	preclinical	emerging	23696637																																			
+MPN	CBL	C384R	missense mutation	gain-of-function	sensitivity	"JAK inhibitors, dasatinib"	preclinical	emerging	23696637																																			
+Cancer	CCND1	amplification	copy number gain	gain-of-function	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22471707																																			
+Melanoma	CCND1	amplification	copy number gain	gain-of-function	response	CDK4/6 inhibitors	case report	emerging	ASCO 2014 (abstr 2528^)																																			
+Cancer	CCND2	amplification	copy number gain	gain-of-function	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22471707																																			
+Cancer	CCND3	amplification	copy number gain	gain-of-function	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22471707																																			
+Cancer	CCNE1	amplification	copy number gain	gain-of-function	sensitivity	CDK2 inhibitors	preclinical	emerging	22471707																																			
+Cancer	CD274	amplification	copy number gain	gain-of-function	sensitivity	PDL1 inhibitors	preclinical	emerging	25079317																																			
+Liposarcomas	CDK4	amplification	copy number gain	gain-of-function	response	CDK4 inhibitors (tumors with RB expression)	early trials	emerging	23569312																																			
+Cancer	CDK6	amplification	copy number gain	gain-of-function	sensitivity	CDK6 inhibitors	preclinical	emerging	22471707																																			
+Cancer	CDKN1A	any	mutation or copy number loss	loss-of-function 	sensitivity	CDK2/4 inhibitors	preclinical	emerging	"22471707, 22997239"																																			
+Cancer	CDKN1B	any	mutation or copy number loss	loss-of-function 	sensitivity	CDK2/4 inhibitors	preclinical	emerging	22471707																																			
+Brain	CDKN2A	any	mutation or copy number loss	loss-of-function	sensitivity	CDK4/6 inhibitors	preclinical	emerging	"22586120, 22711607"																																			
+Cancer	CDKN2A	any	mutation or copy number loss	loss-of-function 	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22471707																																			
+Melanoma	CDKN2A	any	mutation or copy number loss	loss-of-function 	response	CDK4/6 inhibitors	case report	emerging	ASCO 2013 (abstr 2500)																																			
+Brain	CDKN2B	any	mutation or copy number loss	loss-of-function	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22711607																																			
+Cancer	CDKN2B	any	mutation or copy number loss	loss-of-function 	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22471707																																			
+Brain	CDKN2C	any	mutation or copy number loss	loss-of-function	sensitivity	CDK4/6 inhibitors	preclinical	emerging	22711607																																			
+Cancer	CDKN2C	any	mutation or copy number loss	loss-of-function 	sensitivity	CDK2 inhibitors	preclinical	emerging	"22471707, 22997239"																																			
+Dermatofibrosarcoma protuberans	COL1A1-PDGFRB 	rearrangement	fusion gene	gain-of-function	response	imatinib	FDA-approved	consensus	FDA																																			
+ALL	CRLF2	rearrangement	fusion gene	gain-of-function	sensitivity	BET inhibitors	preclinical	emerging	22904298	sensitivity	mTOR inhibitors	preclinical	emerging	22955920																														
+MPN	CSF1R	Y571D	missense mutation	gain-of-function	sensitivity	imatinib	preclinical	emerging	18971950																																			
+"Atypical CML, CNL"	CSF3R	T615A	missense mutation	gain-of-function	sensitivity	ruxolitinib	preclinical	emerging	23656643																																			
+"Atypical CML, CNL"	CSF3R	Q741X 	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	23656643																																			
+"Atypical CML, CNL"	CSF3R	Y752X	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	23656643																																			
+"Atypical CML, CNL"	CSF3R	W791X	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	23656643																																			
+"Atypical CML, CNL"	CSF3R	D771fs	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	23656643																																			
+"Atypical CML, CNL"	CSF3R	S783fs	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	23656643																																			
+"Atypical CML, CNL"	CSF3R	T618I	missense mutation	gain-of-function	response	ruxolitinib	case report	emerging	23656643																																			
+Endometrial	CTNNB1	"H36Y, S37C, S37Y, D32V"	missense mutation	gain-of-function	response	everolimus + letrozole	early trials	emerging	25624430																																			
+Colorectal	CTNNB1	any	mutation	gain-of-function	resistance	Tankyrase inhibitors	preclinical	emerging	23539443																																			
+Lung_squamous	DDR2	S768R	missense mutation	gain-of-function	response	dasatinib + erlotinib	case report	emerging	22328973	sensitivity	dasatinib	preclinical	emerging	22328973																														
+Lung_squamous	DDR2	 I638F 	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	22328973																																			
+Lung_squamous	DDR2	L239R	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	22328973																																			
+Lung_squamous	DDR2	G253C	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	22328973																																			
+Lung_squamous	DDR2	G774V	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	22328973																																			
+Lung_squamous	DDR2	L63V	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	22328973																						 													
+Lung_squamous	DDR2	G505S	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	22328973																																			
+AML	DNMT3A	any	mutation	loss-of-function	response	 daunorubicin	FDA-approved	consensus	22417203																																			
+Brain	EGFR	A289V	missense mutation	gain-of-function	sensitivity	erlotinib	preclinical	emerging	17177598																																			
+Brain	EGFR	R108K	missense mutation	gain-of-function	sensitivity	erlotinib	preclinical	emerging	17177598																																			
+Brain	EGFR	G598V	missense mutation	gain-of-function	sensitivity	erlotinib	preclinical	emerging	17177598																																			
+Brain	EGFR	T263P	missense mutation	gain-of-function	sensitivity	erlotinib	preclinical	emerging	17177598																																			
+Brain	EGFR	amplification	copy number gain	gain-of-function	no response	EGFR TKIs	early trials	emerging 	"16282176, 16278407 "																																			
+Brain	EGFR	exon 2-7 p.30-336	deletion mutation	gain-of-function	no response	EGFR TKIs	early trials	emerging 	19204207																																			
+Colorectal	EGFR	" S464L, G465R, I491M"	missense mutation	gain-of-function	resistance	cetuximab	preclinical	emerging	25623215																																			
+Colorectal	EGFR	R451C	missense mutation	gain-of-function	resistance	cetuximab	case report	emerging	25623215																																			
+Colorectal	EGFR	K467T	missense mutation	gain-of-function	resistance	cetuximab	case report	emerging	25623215	sensitivity	panitumumab	preclinical	emerging	25623215																														
+Colorectal	EGFR	S492R	missense mutation	gain-of-function	resistance	cetuximab	case report 	emerging	22270724	response	panitumumab	case report	emerging	22270724	response	novel anti-EGFR mAbs	early trials	emerging	25962717																									
+Colorectal	EGFR	amplification	copy number gain	gain-of-function	response	anti-EGFR mAbs	late trials	emerging	"18794099, 17664472"																																			
+Endometrial	EGFR	E690K	missense mutation	gain-of-function	response	lapatinib	case report	emerging	22885469																																			
+Head Neck	EGFR	amplification	copy number gain	gain-of-function	no response	gefitinib	early trials	emerging	"21274259, 22261807"																																			
+Head Neck	EGFR	V843I	missense mutation	gain-of-function	no response	gefitinib	case report	emerging	21274259																																			
+Head Neck	EGFR	delL747-P753insS	indel	gain-of-function	no response	gefitinib	case report	emerging	21274259																																			
+Head Neck	EGFR	P546S	missense mutation	gain-of-function	response	cetuximab	case report	emerging	23578570																																			
+Lung_adeno_squamous	EGFR	L858R	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	L861Q	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	G719A	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	G719S	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	G719C	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	G719D	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	L747S	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	S768I	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	L861P	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	L861Q	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	L861R	missense mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	C797S	missense mutation	gain-of-function	resistance	irreversible EGFR T790M inhibitors	early trials	emerging	25939061																																			
+Lung_adeno_squamous	EGFR	T790M	missense mutation	gain-of-function	 resistance	"erlotinib, afatinib"	NCCN/ CAP guidelines	consensus	NCCN	response 	afatinib + cetuximab	early trials	emerging	25074459	response 	HSP90 inhibitors	early trials	emerging	ESMO 2012 (abstr 4380)	response 	irreversible EGFR T790M inhibitors	early trials	emerging	" ASCO 2014 (abstr 8009), ENA 2014 (abstr 10LBA), ENA 2014 (abstr 9LBA), ASCO 2015 (abstr 8001)"	sensitivity	MEK inhibitors (alone or in combination)	preclinical	emerging	23102728															
+Lung_adeno_squamous	EGFR	exon 19 p.729-761	insertion mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	22190593	response 	irreversible EGFR TKIs 	late trials	emerging	22753918																														
+Lung_adeno_squamous	EGFR	exon 19 p.729-761	deletion mutation	gain-of-function	response 	"erlotinib, afatinib"	FDA-approved	consensus	FDA	response 	irreversible EGFR TKIs 	late trials	emerging	"22753918, 25589191"																														
+Lung_adeno_squamous	EGFR	amplification	copy number gain	gain-of-function	no response	erlotinib	early trials	emerging	ASCO 2015 (abstr e19028)																																			
+Lung_adeno_squamous	EGFR	exon 20 p.762-823	insertion mutation	gain-of-function	decreased sensitivity	first-generation and irreversible EGFR TKIs 	late trials	emerging	"21764376, 21764376"	response	HSP90 inhibitors	early trials	emerging	ASCO 2014 (abstr 8015)																														
+Head Neck	EGFR	P753S	missense mutation	gain-of-function	response	cetuximab + sirolimus	case report	emerging	24934779																																			
+Esophageal	EGFR	amplification	copy number gain	gain-of-function	response	gefitinib	late trials	emerging	24950987																																			
+Cancer	EPHA2	amplification	copy number gain	gain-of-function	sensitivity	dasatinib	preclinical	emerging	"18047674, 19010823, 19861960"																																			
+Lung_squamous	EPHA2	G391R	missense mutation	gain-of-function	sensitivity	"mTOR inhibitors, dasatinib"	preclinical	emerging	20360610																																			
+Cancer	EPHA3	amplification	copy number gain	gain-of-function	sensitivity	EPHA3 inhibitors	preclinical	emerging	25125683																																			
+Breast	ERBB2	L755S	missense mutation	gain-of-function	sensitivity	neratinib	preclinical	emerging	23220880																																			
+Breast	ERBB2	G309A	missense mutation	gain-of-function	sensitivity	"lapatinib, neratinib"	preclinical	emerging	23220880																																			
+Breast	ERBB2	755-759del	deletion mutation	gain-of-function	sensitivity	neratinib 	preclinical	emerging	23220880																																			
+Breast	ERBB2	 D769Y 	missense mutation	gain-of-function	sensitivity	"trastuzumab, lapatinib, neratinib"	preclinical	emerging	23220880																																			
+Breast	ERBB2	 D769H 	missense mutation	gain-of-function	sensitivity	"trastuzumab, lapatinib, neratinib"	preclinical	emerging	23220880																																			
+Breast	ERBB2	R896C	missense mutation	gain-of-function	sensitivity	"trastuzumab, lapatinib, neratinib"	preclinical	emerging	23220880																																			
+Breast	ERBB2	V777L	missense mutation	gain-of-function	sensitivity	"lapatinib, neratinib"	preclinical	emerging	23220880																																			
+Breast	ERBB2	P780_Y781insGSP	insertion mutation	gain-of-function	sensitivity	neratinib	preclinical	emerging	23220880																																			
+Breast	ERBB2	V842I	missense mutation	gain-of-function	sensitivity	"lapatinib, neratinib"	preclinical	emerging	23220880																																			
+Cancer	ERBB2	G309E 	missense mutation	gain-of-function	sensitivity	"ERBB2 TKIs, trastuzumab"	preclinical	emerging	22908275																																			
+Cancer	ERBB2	S310F	missense mutation	gain-of-function	sensitivity	"ERBB2 TKIs, trastuzumab"	preclinical	emerging	22908275																																			
+Cancer	ERBB2	S310Y	missense mutation	gain-of-function	sensitivity	"ERBB2 TKIs, trastuzumab"	preclinical	emerging	22908275																																			
+Cancer	ERBB2	C311R  	missense mutation	gain-of-function	sensitivity	"ERBB2 TKIs, trastuzumab"	preclinical	emerging	22908275																																			
+Cancer	ERBB2	E321G	missense mutation	gain-of-function	sensitivity	ERBB2 TKIs	preclinical	emerging	22908275																																			
+Cancer	ERBB2	C334S	missense mutation	gain-of-function	sensitivity	ERBB2 TKIs	preclinical	emerging	22908275																																			
+Breast	ERBB2	amplification	copy number gain	gain-of-function	response	"trastuzumab, lapatinib, pertuzumab, ado-trastuzumab emtansine"	FDA-approved	consensus	FDA	response	"neratinib, afatinib"	late trials	emerging	" 20142587, 22418700, 23632474 "	response	trastuzumab + HSP90 inhibitors	early trials	emerging	21558407	response	trastuzumab + everolimus + chemotherapy	early trials	emerging	"21107682, 20975068"																				
+Breast	ERBB2	V659E	missense mutation	gain-of-function	response	lapatinib	case report 	emerging	23950206																																			
+Colorectal	ERBB2	amplification	copy number gain	gain-of-function	resistance	anti-EGFR mAbs	early trials	emerging	"22586653, 23348520"	response	trastuzumab + lapatinib (in KRAS wt)	early trials	emerging	ASCO 2015 (abstr 3508)					 	 	 	 	 	 																				
+Endometrial	ERBB2	amplification	copy number gain	gain-of-function	no response	 trastuzumab alone	early trials	emerging	19840887	sensitivity	trastuzumab + lapatinib	preclinical	emerging	25294905																														
+Gastric	ERBB2	amplification	copy number gain	gain-of-function	response	trastuzumab	FDA-approved	consensus	FDA	response	afatinib	case report	emerging	AACR 2014 (abstr CT228)																														
+Head Neck	ERBB2	amplification	copy number gain	gain-of-function	response	trastuzumab-based chemotherapy	case report	emerging	21380780																																			
+Lung_adeno 	ERBB2	proximal exon 20 p.775-881	insertion mutation	gain-of-function	response 	afatinib   	early trials	emerging	22325357	response 	trastuzumab-based therapy	early trials	emerging	ASCO 2015 (abstr 11076)	sensitivity	"trastuzumab, lapatinib, neratinib"	preclinical	emerging	"16843263, 17311002 "																									
+Lung_adeno 	ERBB2	G776L	missense mutation	gain-of-function	response	trastuzumab-based therapy	case report 	emerging	16775247																																			
+Lung_adeno 	ERBB2	V659E	missense mutation	gain-of-function	response	lapatinib	case report 	emerging	23950206																																			
+Ovarian	ERBB2	amplification	copy number gain	gain-of-function	response	trastuzumab	early trials	emerging	"20003286, 12525520"																																			
+Ovarian	ERBB2	amplification	copy number gain	gain-of-function	response	trastuzumab	case report	emerging	20003286																																			
+Lung_adeno 	ERBB2	pending	missense mutation	gain-of-function	response	neratinib plus temsirolimus	early trials	emerging	ESMO 2014 (abstr LBA39_PR)																																			
+Cancer	ERBB3	P262H	missense mutation	gain-of-function	sensitivity	"trastuzumab, pertuzumab, lapatinib, anti-HER3 mAbs, PI3K pathway inhibitors + MEK inhibitors"	preclinical	emerging	23680147																																			
+Cancer	ERBB3	G284R	missense mutation	gain-of-function	sensitivity	"trastuzumab, pertuzumab, lapatinib, anti-HER3 mAbs, PI3K pathway inhibitors + MEK inhibitors"	preclinical	emerging	23680147																																			
+Cancer	ERBB3	Q809R	missense mutation	gain-of-function	sensitivity	"trastuzumab, lapatinib, PI3K pathway inhibitors + MEK inhibitors"	preclinical	emerging	23680147																																			
+Urothelial	ERBB3	G284R	missense mutation	gain-of-function	response	afatinib   	case report	emerging	ASCO 2015 (abstr e15516)																																			
+Urothelial	ERBB3	R103G	missense mutation	gain-of-function	response	afatinib   	case report	emerging	ASCO 2015 (abstr e15516)																																			
+Melanoma	ERBB4	E317K	missense mutation	gain-of-function	sensitivity	lapatinib	preclinical	emerging	19718025																																			
+Melanoma	ERBB4	E452K	missense mutation	gain-of-function	sensitivity	lapatinib	preclinical	emerging	19718025																																			
+Melanoma	ERBB4	E542K	missense mutation	gain-of-function	sensitivity	lapatinib	preclinical	emerging	19718025																																			
+Melanoma	ERBB4	R544W	missense mutation	gain-of-function	sensitivity	lapatinib	preclinical	emerging	19718025																																			
+Melanoma	ERBB4	R393W	missense mutation	gain-of-function	sensitivity	lapatinib	preclinical	emerging	19718025																																			
+Melanoma	ERBB4	E872K	missense mutation	gain-of-function	sensitivity	lapatinib	preclinical	emerging	19718025																																			
+Lung_adeno 	ERBB4	rearrangement	fusion gene	gain-of-function	sensitivity	"lapatinib, afatinib"	preclinical	emerging	24727320																																			
+Lung_adeno_squamous	ERCC1	any	mutation or copy number loss	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	23934192	sensitivity	cisplatin	preclinical	emerging	"23275151, 23934192"																														
+Urothelial	ERCC2	any	mutation	loss-of-function	response	cisplatin	early trials	emerging	25096233																																			
+Ovarian	ERCC4	any	missense mutation	loss-of-function	sensitivity	cisplatin	preclinical	emerging	25634215																																			
+Ovarian	ERCC6	any 	missense mutation	loss-of-function	sensitivity	cisplatin	preclinical	emerging	25634215																																			
+Breast	ESR1	ERS1-YAP1 rearrangement	fusion gene	gain-of-function	resistance	anti-estrogens	preclinical	emerging	24055055																																			
+Breast	ESR1	E380Q	missense mutation	gain-of-function	resistance	anti-estrogens	early trials	emerging	"24185512, 24185510, 24398047"																																			
+Breast	ESR1	codon 537	missense mutation	gain-of-function	resistance	anti-estrogens	early trials	emerging	"24185512, 24185510, 24398047"	response	novel estrogen receptor degrader	early trials	emerging	AACR 2015 (abstr CT231)																														
+Breast	ESR1	codon 538	missense mutation	gain-of-function	resistance	anti-estrogens	early trials	emerging	"24185512, 24185510, 24398047"	response	novel estrogen receptor degrader	early trials	emerging	AACR 2015 (abstr CT231)																														
+Breast	ESR1	L536	missense mutation	gain-of-function	resistance	anti-estrogens	early trials	emerging	"24185512, 24185510"																																			
+Breast	ESR1	P535H	missense mutation	gain-of-function	resistance	anti-estrogens	early trials	emerging	24185512																																			
+Lymphoma	EZH2	Y641	missense mutation	gain-of-function	sensitivity	EZH2 inhibitor	preclinical	emerging	23023262																																			
+Lymphoma	EZH2	Y646F	missense mutation	gain-of-function	sensitivity	EZH2 inhibitor	preclinical	emerging	24563539																																			
+Lymphoma	EZH2	A677	missense mutation	gain-of-function	sensitivity	EZH2 inhibitor	preclinical	emerging	23023262																																			
+ALL	FBXW7	any	mutation	loss-of-function	response	steroids in early setting	late trials	emerging	20861909																																			
+Cancer	FBXW7	any	mutation or copy number loss	loss-of-function	resistance	anti-tubulin agents	preclinical	emerging	21368834																																			
+Breast	FGF3	amplification	copy number gain	gain-of-function	response	dovitinib	early trials	emerging	23658459																																			
+Breast	FGF4	amplification	copy number gain	gain-of-function	response	dovitinib	early trials	emerging	23658459																																			
+Breast	FGFR1	amplification	copy number gain	gain-of-function	response	FGFR inhibitors	early trials	emerging	25193991																																			
+Lung_squamous	FGFR1	amplification	copy number gain	gain-of-function	response	 FGFR inhibitors	early trials	emerging	"AACR 2012 (abstr LB-122), AACR 2013 (abstr LB-145)"																																			
+Head Neck	FGFR1 	amplification	copy number gain	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	23418312																																			
+Biliary	FGFR2	rearrangement	fusion gene	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	23558953																																			
+Breast	FGFR2	amplification	copy number gain	gain-of-function	response	FGFR inhibitors	case report	emerging	25193991																																			
+Endometrial	FGFR2	S252W	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	"18552176, 22238366, 23002168 "																																			
+Endometrial	FGFR2	N549K	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	"18552176, 22238366, 23002168 "																																			
+Endometrial	FGFR2	V565I	missense mutation	gain-of-function	resistance	dovitinib	preclinical	emerging	23908597	resistance	ponatinib	preclinical	emerging	23908597	sensitivity	selective FGFR inhibitor	preclinical	emerging	ENA 2014 (abstr 381)																									
+Endometrial	FGFR2	"M536I, M538I, I548V, N550, E566G, L618M, K660E "	missense mutation	gain-of-function	resistance	dovitinib	preclinical	emerging	23908597	sensitivity	ponatinib	preclinical	emerging	23908597																														
+Gastric	FGFR2	amplification	copy number gain	gain-of-function	response	FGFR inhibitors	early trials	emerging	ASCO 2015 (abstr 2508)																																			
+Head Neck	FGFR2	P253R	missense mutation	gain-of-function	response	pazopanib	case report	emerging	23786770																																			
+Lung_squamous	FGFR2	W290C	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	23786770																																			
+Lung_squamous	FGFR2	S320C	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	23786770																																			
+Lung_squamous	FGFR2	K660N	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	25035393																																			
+Brain	FGFR3	rearrangement	fusion gene	gain-of-function	response	FGFR inhibitors	early trials	emerging	ASCO 2014 (abstr 2501)																																			
+Urothelial	FGFR3	any	mutation	gain-of-function	response	FGFR inhibitors	early trials	emerging	AACR 2014 (abstr CT326)																																			
+Urothelial	FGFR3	rearrangement	fusion gene	gain-of-function	response	FGFR inhibitors	case report	emerging	AACR 2014 (abstr CT325)																																			
+Myeloma	FGFR3	Y373C	missense mutation	gain-of-function	resistance	bortezomib	preclinical	emerging	"19331127, 21273588"	sensitivity	FGFR inhibitors	preclinical	emerging	22869148																														
+Myeloma	FGFR3	K650	missense mutation	gain-of-function	sensitivity	bortezomib	preclinical	emerging	"19331127, 21273588"	sensitivity	FGFR inhibitors	preclinical	emerging	"16091734, 20439987"																														
+Myeloma	FGFR3	V555M	missense mutation	gain-of-function	resistance	FGFR inhibitors	preclinical	emerging	22869148																																			
+Rhabdomyosarcoma	FGFR4	K535	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	"19809159, 24124571"																																			
+Rhabdomyosarcoma	FGFR4	E550	missense mutation	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	"19809159, 24124571"																																			
+Renal	FLCN	any	mutation or copy number loss 	loss-of-function	response	everolimus	case report	emerging	23995526																																			
+Thyroid	FLCN	any	mutation or copy number loss 	loss-of-function	response	everolimus	case report	emerging	25295501																																			
+AML	FLT3	F691	missense mutation	gain-of-function	resistance	quizartinib	preclinical	emerging	22504184	sensitivity	novel FLT3 inhibitors	preclinical	emerging	25847190																														
+AML	FLT3	D835	missense mutation	gain-of-function	resistance	quizartinib	preclinical	emerging	22504184	resistance	ponatinib	preclinical	emerging	23430109	resistance	sorafenib	case report	emerging	22368270	response	midostaurin	case report	emerging	20733134	response	lestaurtinib	case report	emerging	16857985															
+AML	FLT3	N676	missense mutation	gain-of-function	resistance	quizartinib	preclinical	emerging	23878140	sensitivity	"crenolanib, PKC412"	preclinical	emerging	24619500																														
+AML	FLT3	Y842	missense mutation	gain-of-function	resistance	quizartinib	preclinical	emerging	22504184	resistance	ponatinib	preclinical	emerging	23430109	sensitivity	"crenolanib, PKC412"	preclinical	emerging	24619500																									
+AML	FLT3	ITD (Y591-597)	mutation	gain-of-function	response	quizartinib	early trials	emerging	"ASH 2012 (abstr 673), ASH 2012 (abstr 48)"	response	FLT3 inhibitors	early trials	emerging	16857985	response	sorafenib	early trials	emerging	"19389879, 22368270"	response	sorafenib + azacytidine	early trials	emerging	23613521																				
+Liposarcomas 	FRS2	amplification	copy number gain	gain-of-function	sensitivity	FGFR inhibitors	preclinical	emerging	23393200																																			
+Breast	GATA3	any	mutation	gain-of-function	sensitivity	aromatase inhhibitors	preclinical	emerging	24758297																																			
+Melanoma	GNA11	Q209L	missense mutation	gain-of-function	response	selumetinib	early trials	emerging	ASCO 2013 (abstr CRA9003)	response	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	"22733540, 22808163"																														
+Melanoma	GNA11	Q209P	missense mutation	gain-of-function	response	selumetinib	early trials	emerging	ASCO 2013 (abstr CRA9003)	response	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	"22733540, 22808163"																														
+Melanoma	GNAQ	Q209	missense mutation	gain-of-function	response	selumetinib	early trials	emerging	ASCO 2013 (abstr CRA9003)	response	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	"22733540, 22808163"	sensitivity	PKC inhibitor	preclinical	emerging	"22653968, 22253748 "																									
+Cancer	GNAS	R201	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	21835143																																			
+Breast	HGF	amplification	copy number gain	gain-of-function	resistance	trastuzumab in HER2-ampl	early trials	emerging	22850551																																			
+AML	HRAS	any	missense mutation	gain-of-function	sensitivity	MEK inhibitors +/- mTOR inhibitors	preclinical	emerging	"22399013, 22507781"																																			
+Cervical	HRAS	codon 12	missense mutation	gain-of-function	sensitivity	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	15950068	sensitivity	mTOR inhibitors	preclinical	emerging	22345164																														
+Brain	IDH1	R132H	missense mutation	switch-of-function	sensitivity	IDH1 inhibitor	preclinical	emerging	23558169																																			
+AML	IDH1	unknown	missense mutation	switch-of-function	response	IDH1 inhibitor	early trials	emerging	ENA 2014 (abstr 1LBA)	sensitivity	BCL2 inhibitors	preclinical	emerging	25599133																														
+AML	IDH2	R140Q	missense mutation	switch-of-function	response	IDH2 inhibitor	early trials	emerging	AACR 2014 (abstr CT103)	 																																		
+AML	IDH2	R172K	missense mutation	switch-of-function	response	IDH2 inhibitor	early trials	emerging	AACR 2014 (abstr CT103)																																			
+Lung_adeno 	IGF1R	amplification	copy number gain	gain-of-function	resistance	erlotinib	preclinical	emerging	24458568																																			
+ALL	IL7R 	237-255_indel or S185C	mutation	gain-of-function	sensitivity	ruxolitinib (in SH2B3 deleted)	preclinical	emerging	"22897847, 22955920"	sensitivity	mTOR inhibitors  (in SH2B3 deleted)	preclinical	emerging	22955920																														
+Malignant Rhabdoid Tumor	INI1	any	mutation or copy number loss	loss-of-function	response	EZH2 inhibitor	case report	emerging	ENA 2014 (abstr 6LBA)																																			
+Breast	INPP4B	any	mutation or copy number loss	loss-of-function 	sensitivity	PI3K pathway inhibitors	preclinical 	emerging	23551093																																			
+ALL	JAK1	S646F	missense mutation	gain-of-function	sensitivity	ruxolitinib	preclinical	emerging	22955920																																			
+ALL	JAK2	rearrangement	fusion gene	gain-of-function	sensitivity	ruxolitinib	preclinical	emerging	"22875628, 22899477 "																																			
+ALL	JAK2	R683	missense mutation	gain-of-function	sensitivity	ruxolitinib	preclinical	emerging	"18805579, 22955920"																																			
+AML	JAK2	V617F	missense mutation	gain-of-function	response	ruxolitinib	early trials	emerging	22422826	response	JAK inhibitors (alone or in combination)	preclinical	emerging	22829971																														
+Myelofibrosis	JAK2	V617F	missense mutation	gain-of-function	response	ruxolitinib	FDA-approved	consensus	FDA																																			
+Megakaryoblastic leukemia	JAK3	R657Q	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	18397343																																			
+Megakaryoblastic leukemia	JAK3	I87T	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	18397343																																			
+Megakaryoblastic leukemia	JAK3	Q501H	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	18397343																																			
+Natural killer T cell lymphoma	JAK3 	A572V	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	22705984																																			
+Natural killer T cell lymphoma	JAK3 	A573V	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	22705984																																			
+Cancer	KDR	A1065T	missense mutation	gain-of-function	sensitivity	VEGFR inhibitors	preclinical	emerging	24569783																																			
+AML	KIT	N822K	missense mutation	gain-of-function	sensitivity	dasatinib	preclinical	emerging	23149070																																			
+AML	KIT	exon 8 p.416-422	indel	gain-of-function	sensitivity	imatinib	preclinical	emerging	15618474																																			
+GIST	KIT	"V559I, H687Y, T670, V654A, A829P, D816, N822, Y823D"	missense mutation	gain-of-function	resistance	imatinib	preclinical	emerging	"23582185, 21689725, 17259998"																																			
+AML	KIT	D816V	missense mutation	gain-of-function	response	dasatinib	case report	emerging	18986703																																			
+GIST	KIT	exon 9 p.449-514	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA	decreased sensitivity 	imatinib (low dose)	late trials	emerging	"18955458, 18955451, 16624552"	response	sorafenib	early trials	emerging	22270258	sensitivity	HSP90 inhibitors	preclinical	emerging	21737509																				
+GIST	KIT	exon 11 p.550-592	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA	decreased sensitivity	sunitinib	late trials	emerging	18955458	response	sorafenib	early trials	emerging	22270258	response	HSP90 inhibitors	early trials	emerging	22898035	response	ponatinib	early trials	emerging	"25239608, ASCO 2015 (abstr 10535)"															
+GIST	KIT	exon 14 p.664-714	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA	decreased sensitivity	imatinib	late trials	emerging	18955458																														
+GIST	KIT	exon 17 p.788-828	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA	decreased sensitivity	"imatinib, sunitinib"	preclinical	emerging	23840364	response	nilotinib	early trials	emerging	"22119758, 21456006"	sensitivity	sorafenib	preclinical	emerging	23840364	sensitivity	HSP90 inhibitors	preclinical	emerging	21737509															
+GIST	KIT	"exon 17 p.788-828, exon 18 p.829-860"	missense mutation	gain-of-function	response	ponatinib	early trials	emerging	ASCO 2015 (abstr 10517)																																			
+GIST	KIT	T670I	missense mutation	gain-of-function	resistance 	imatinib	case report	emerging	24687822																																			
+GIST	KIT	"A82P9, V654A, T670I"	missense mutation	gain-of-function	sensitivity	ponatinib	preclinical	emerging	25239608																																			
+Melanoma	KIT	"exon 11 p.550-592, exon 13 p.627-664  "	mutation	gain-of-function	response	imatinib	NCCN guidelines	consensus	NCCN	response	"imatinib, sunitinib"	late trials	emerging	"18421059 ,21642685, 21690468, 22261812  "	response	dasatinib	case report	emerging	19671763	response	sorafenib	case report	emerging	18936790	response	nilotinib	early trials	emerging	"22068222, 25695690"															
+Melanoma	KIT	"exon 17 p.788-828, exon 18 p.829-860"	missense mutation	gain-of-function	resistance	imatinib	early trials	emerging	"21690468, 21642685"	response	sorafenib	case report	emerging	20372153																														
+Melanoma	KIT	D820Y	missense mutation	gain-of-function	response	imatinib	case report	emerging	23775962	response	nilotinib	case report	emerging	25695690																														
+Melanoma	KIT	amplification	copy number gain	gain-of-function	no response	imatinib	early trials	emerging	23775962	response	imatinib	early trials	emerging	"21690468, 21642685"	response	sunitinib	early trials	emerging	22261812																									
+Thymic	KIT	Y553N	missense mutation	gain-of-function	response	imatinib	case report	emerging	21969494	response	sunitinib	case report	emerging	23375402																														
+Thymic	KIT	D820E	missense mutation	gain-of-function	response	sorafenib	case report	emerging	19461405																																			
+Thymic	KIT	del577-578–579	deletion mutation	gain-of-function	response	sorafenib	case report	emerging	20970876																																			
+Thymic	KIT	V560del	deletion mutation	gain-of-function	response	imatinib	case report	emerging	15201427																																			
+Thymic	KIT	H697Y	missense mutation	gain-of-function	sensitivity	sunitinib	preclinical	emerging	19861435																																			
+GIST	KIT 	exon 13 p.627-664	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA	decreased sensitivity	imatinib	late trials	emerging	18955458																														
+GIST	KIT 	wild type	no mutation	not applicable	decreased sensitivity	imatinib	late trials	emerging	18955458	response	sunitinib	late trials	emerging	18955458	response	sorafenib	early trials	emerging	ASCO 2011 (abstr 10009)	sensitivity	dasatinib	preclinical	emerging	16397263																				
+Systemic mastocytosis	KIT 	D816V	missense mutation	gain-of-function	response	dasatinib	early trials	emerging	18559612																																			
+ALL	KRAS	codon 12	missense mutation	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	18701506																																			
+AML	KRAS	any	mutation	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	22507781																																			
+Cervical	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	22169769																																			
+Endometrial	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	resistance	PI3K pathway inhibitors	preclinical	emerging	22662154	sensitivity	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	"21984976, 22662154"																														
+Gastric	KRAS	"codon 12, 13"	missense mutation	gain-of-function	resistance	anti-EGFR mAbs	preclinical	emerging	"22614881, 22290393"																																			
+Biliary	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	response	MEK inhibitors	early trials	emerging	23391555																																			
+Colorectal	KRAS	wild type	no mutation	not applicable	response	"cetuximab, panitumumab"	FDA-approved	consensus	FDA																																			
+Colorectal	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	resistance	"cetuximab, panitumumab"	FDA-rejected	consensus	FDA	sensitivity	mTOR inhibitors + BH3 mimetics	preclinical	emerging	24163374	sensitivity	anti-EGFR mAbs + MEK inhibitors	preclinical	emerging 	24553387	sensitivity	MEK inhibitors + PI3K pathway inhibitors 	preclinical	emerging	22392911	sensitivity	MEK inhibitors + BCL-XL inhibitors	preclinical	emerging	23245996	sensitivity	MEK inhibitors + IGF1R inhibitors	preclinical	emerging	24045180	sensitivity	ERK inhibitors	preclinical	emerging 	23614898					
+Colorectal	KRAS	codon 146	missense mutation	gain-of-function	resistance	"cetuximab, panitumumab"	late trials	emerging	"20619739, 21163703, 23325582  "	sensitivity	MEK inhibitors + PI3K pathway inhibitors 	preclinical	emerging	22392911																														
+GIST	KRAS	codon 12	missense mutation	gain-of-function	resistance	imatinib	case report 	emerging	24687822																																			
+Lung_adeno_squamous	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	resistance	EGFR TKIs 	NCCN guidelines	consensus	20921461	response	MEK inhibitors	early trials	emerging	"23200175, 24947927, 25667274, 25722381"	sensitivity	BET inhibitors in LKB1 wt	preclinical	emerging	"23129625, 24045185"	response	PI3K pathway inhibitors + MEK inhibitors	early trials	emerging	25516890	sensitivity	CDK4 inhibitors	preclinical	emerging	20609353	sensitivity	HSP90 inhibitors (in combination)	preclinical	emerging	"23012248, 21907929 "	sensitivity	JAK/TBK1/IKK? inhibitor	preclinical	emerging	24444711	sensitivity	FAK inhibitors	preclinical	emerging	23358651
+Pancreatic	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	response 	gemcitabine + MEK inhibitors	early trials	emerging	23583440	no response	PI3K pathway inhibitors + MEK inhibitor	early trials	emerging	ASCO 2015 (abstr 4119)																														
+Myeloma	KRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	sensitivity	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	22985491																																			
+Colorectal	KRAS	amplification	copy number gain	gain-of-function	resistance	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	case report	emerging	ENA 2014 (abstr 428)																																			
+Hepatocellular carcinoma	KRAS	"codon 12, 13, 61"	mutation	gain-of-function	response	sorafenib + MEK inhibitor	"early trials, case report "	emerging	25294897																																			
+Ovarian	KRAS 	"codon 12, 13, 61"	missense mutation	gain-of-function	response	PI3K pathway inhibitors + MEK inhibitors	early trials	emerging	"25500057, 25516890"	sensitivity	MEK inhibitors	preclinical	emerging	19018267																														
+Ovarian	LRP1B 	any	mutation or copy number loss	loss-of-function 	resistance	liposomal doxorubicin	early trials	emerging	22896685																																			
+Cancer	MAP2K1	I99T	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	L115	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	G128D	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	F129L	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144	sensitivity	ERK inhibitors	preclinical	emerging	23614898																														
+Cancer	MAP2K1	V211D	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	L215P	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144	sensitivity	ERK inhibitors	preclinical	emerging	23614898																														
+Cancer	MAP2K1	I103N	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144	sensitivity	ERK inhibitors	preclinical	emerging	23614898																														
+Cancer	MAP2K1	K104N	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	I111N	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	H119P	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	E120D	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	F133L	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144	 																																		
+Cancer	MAP2K1	Q56P	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Cancer	MAP2K1	P124	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144	sensitivity	ERK inhibitors	preclinical	emerging	23614898																														
+Cancer	MAP2K1	D67N	missense mutation	gain-of-function	resistance	 MEK inhibitors	preclinical	emerging	19915144																																			
+Melanoma	MAP2K1	P124L	missense mutation	gain-of-function	resistance	"BRAF inhibitors, MEK inhibitors"	case report	emerging	19915144																																			
+Melanoma	MAP2K1	P124S	missense mutation	gain-of-function	response	BRAF inhibitors in BRAF mutant tumor	case report	emerging	22588879																																			
+Melanoma	MAP2K1	P124	missense mutation	gain-of-function	resistance	BRAF inhibitors	early trials	emerging	25370473	sensitivity	"MEK inhibitors, ERK inhibitors"	preclinical	emerging	25370473																														
+Melanoma	MAP2K1	I111S	missense mutation	gain-of-function	response	BRAF inhibitors in BRAF mutant tumor	case report	emerging	22588879																																			
+Melanoma	MAP2K1	K57E	missense mutation	gain-of-function	resistance	vemurafenib	case report	emerging	23569304																																			
+Melanoma	MAP2K1	K57N	missense mutation	gain-of-function	resistance	 MEK inhibitors	case report	emerging	23444215																																			
+Melanoma	MAP2K1	C121S	missense mutation	gain-of-function	resistance	"BRAF inhibitors, MEK inhibitors"	case report	emerging	21383288	sensitivity	novel MEK inhibitors	preclinical	emerging	24448821																														
+Melanoma	MAP2K1	E203K	missense mutation	gain-of-function	resistance	vemurafenib	case report	emerging	23569304	resistance	"BRAF inhibitors, MEK inhibitors"	preclinical	emerging	19915144																														
+Melanoma	MAP2K1	Q56P	missense mutation	gain-of-function	resistance	vemurafenib	case report	emerging	23569304	resistance	"BRAF inhibitors, MEK inhibitors"	preclinical	emerging	19915144																														
+Colorectal	MAP2K1	unknown	mutation	gain-of-function	resistance	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	case report	emerging	ENA 2014 (abstr 428)																																			
+Melanoma	MAP2K2	Q60P	missense mutation	gain-of-function	resistance	BRAF + MEK inhibitors	case report	emerging	24265154	sensitivity	ERK inhibitors	preclinical	emerging	24265154																														
+Melanoma	MAP2K2	"V35M, L46F, N126D, C125S"	missense mutation	gain-of-function	resistance	"BRAF inhibitors, MEK inhibitors"	preclinical	emerging	24265153	sensitivity	ERK inhibitors	preclinical	emerging	24265153																														
+Cancer	MCL1	amplification	copy number gain	gain-of-function	resistance	anti-tubulin agents	preclinical	emerging	21368834																																			
+Liposarcomas 	MDM2	amplification	copy number gain	gain-of-function	response	MDM2 inhibitors (tumors TP53 wt)	early trials	emerging	"23084521, ASCO 2015 (abstr 10564)"																																			
+Sarcoma	MDM4	amplification	copy number gain	gain-of-function	sensitivity	MDM2/MDMX inhibitors	preclinical	emerging	24336067																																			
+Cancer	MET	V1092I	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	H1049R	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	M1250I	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	R988C	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	T1010I	missense mutation	gain-of-function	sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	Y1230C	missense mutation	gain-of-function	reduced sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	Y1235D	missense mutation	gain-of-function	reduced sensitivity	crizotinib	preclinical	emerging	17483355																																			
+Cancer	MET	H1112L	missense mutation	gain-of-function	sensitivity	MET inhibitors	preclinical	emerging	AACR 2012 (abstr 1786)																																			
+Brain	MET	amplification	copy number gain	gain-of-function	response	crizotinib	case report	emerging	22162573																																			
+Breast	MET	amplification	copy number gain	gain-of-function	resistance	trastuzumab in HER2-amplified 	early trials	emerging	22850551																																			
+Gastric	MET	amplification	copy number gain	gain-of-function	response	MET inhibitors	case report	emerging	"22042947, ASCO GI 2015 (abstr 1)"	sensitivity	MET inhibitors	preclinical	emerging	"22729845, 23327903"	resistance	lapatinib in HER2-amplified	preclinical	emerging	22238368																									
+Lung_adeno 	MET	amplification	copy number gain	gain-of-function	response	crizotinib	early trials	emerging	"ASCO 2014 (abstr 8001), ASCO 2015 (abstr 2595)"	resistance	EGFR TKIs (EGFR mutant disease)	early trials	emerging	ASCO 2015 (abstr 8089)																														
+Renal	MET	M1268T	missense mutation	gain-of-function	response	MET inhibitors	case report	emerging	23610116																																			
+Renal	MET	H1094R	missense mutation	gain-of-function	response	MET inhibitors	early trials	emerging	23213094																																			
+Renal	MET	amplification	copy number gain	gain-of-function	response	MET inhibitors	early trials	emerging	23213094																																			
+Brain	MGMT	any	promoter methylation or deletion	loss-of-function	increased benefit	 temozolomide	late trials	emerging	15758010																																			
+Melanoma	MITF	amplification	copy number gain	gain-of-function	resistance	BRAF inhibitors	case report	emerging	24265153																																			
+AML	MLL 	rearrangement	fusion gene	gain-of-function	response	 daunorubicin	FDA-approved	consensus	22417203	sensitivity	HDAC inhibitors 	preclinical	emerging	22015773	sensitivity	DOT1L inhibitors	preclinical	emerging	21741596	sensitivity	BET inhibitors	preclinical	emerging	21964340																				
+MPN	MPL	W515F	missense mutation	gain-of-function	sensitivity	JAK inhibitors	preclinical	emerging	16834459																																			
+Cancer	MSH3	any	mutation	loss-of-function	sensitivity	DNA-PKcs inhibitors	preclinical	emerging	24556366																																			
+Cancer	MTOR	L1460P	missense mutation	gain-of-function	sensitivity	rapamycin	preclinical	emerging	24631838																																			
+Cancer	MTOR	S2215Y	missense mutation	gain-of-function	sensitivity	rapamycin	preclinical	emerging	24631838																																			
+Cancer	MTOR	R2505P	missense mutation	gain-of-function	sensitivity	rapamycin	preclinical	emerging	24631838																																			
+Renal	MTOR	Q2223K	missense mutation	gain-of-function	response	everolimus	case report	emerging	24622468																																			
+Urothelial	MTOR	E2014K	missense mutation	gain-of-function	response	everolimus	case report	emerging	24625776																																			
+Urothelial	MTOR	E2419K	missense mutation	gain-of-function	response	everolimus	case report	emerging	24625776																																			
+Urothelial	MTOR	N1421D	missense mutation	gain-of-function	response	everolimus	case report	emerging	ASCO 2015 (abstr 11010)																																			
+Angiosarcoma	MTOR	I1973F	missense mutation	gain-of-function	response	everolimus	case report	emerging	ASCO 2015 (abstr 11010)																																			
+Gastric	MTOR	K1771R	missense mutation	gain-of-function	response	everolimus	case report	emerging	ASCO 2015 (abstr 11010)																																			
+Cancer	MTOR	F2108L	missense mutation	gain-of-function	resistance	everolimus	case report	emerging	25295501	sensitivity	mTOR kinase inhibitors	preclinical	emerging	25295501																														
+Neuroblastoma	MYC	amplification	copy number gain	gain-of-function	sensitivity	BET inhibitors	preclinical	emerging	23430699																																			
+Prostate	MYC	amplification	copy number gain	gain-of-function	sensitivity	PIM inhibitors	preclinical	emerging	25505253																																			
+Myeloma	MYC	amplification	copy number gain	gain-of-function	sensitivity	BET inhibitors	preclinical	emerging	21889194																																			
+Neuroblastoma	MYC	amplification	copy number gain	gain-of-function	sensitivity	BET inhibitors	preclinical	emerging	23430699																																			
+Neuroblastoma	MYC	amplification	copy number gain	gain-of-function	sensitivity	CDK7 inhibitors	preclinical	emerging	25416950																																			
+Lymphoma	MYD88	L265P	missense mutation	gain-of-function	 sensitivity	JAK inhibitors	preclinical	emerging	21179087																																			
+Brain	NF1	any	mutation or copy number loss	loss-of-function	sensitivity	mTOR inhibitors	preclinical	emerging	19573811																																			
+Melanoma	NF1	any	mutation or copy number loss	loss-of-function	sensitivity	trametinib	preclinical	emerging	24576830	resistance	BRAF inhibitors in BRAF mutant tumor	preclinical	emerging	"23288408, 24576830"	resistance	MEK inhibitors in BRAF mutant tumors	case report	emerging	"23444215, 23288408"																									
+Head Neck	NF1	D1644A	missense mutation	loss-of-function	response	everolimus	case report	emerging	ASCO 2015 (abstr 11010)																																			
+"MPNST, leukemia"	NF1	any	mutation or copy number loss	loss-of-function 	sensitivity	mTOR inhibitors	preclinical	emerging	"18483311, 20505189, 24509877"	sensitivity	MEK inhibitors	preclinical	emerging	"23221341,  23858101"	sensitivity	mTOR inhibitors + HSP90 inhibitors	preclinical	emerging	21907929																									
+Mesothelioma	NF2	any	mutation or copy number loss	loss-of-function 	response	FAK inhibitors	early trials	emerging	ENA 2012 (abstr 610)																																			
+Schwannoma	NF2	any	mutation	loss-of-function 	response	bevacizumab	early trials	emerging	22805104																																			
+Schwannoma	NF2	any	mutation	loss-of-function 	response	lapatinib	early trials	emerging	22844108																																			
+Schwannoma	NF2	any	mutation or copy number loss	loss-of-function 	response	PAK inhibitors	early trials	emerging	23960073																																			
+"Meningioma, Schwannoma, PEComa"	NF2	any	mutation or copy number loss	loss-of-function 	sensitivity	mTOR inhibitors	preclinical	emerging	"19451225, 22426462, 22927055 "																																			
+ALL	NOTCH1	rearrangement	fusion gene	gain-of-function	sensitivity	Gamma secretase inhibitors	preclinical	emerging	"16688224, 23033986 "																																			
+Breast	NOTCH1	rearrangement	fusion gene	gain-of-function	sensitivity	Gamma secretase inhibitors	preclinical	emerging	22101766																																			
+Mantle cell lymphoma	NOTCH1	any	mutation 	gain-of-function	sensitivity	Gamma secretase inhibitors	preclinical	emerging	22210878																																			
+Breast	NOTCH1	PEST domain p.2245-2536	mutation	gain-of-function	sensitivity	Gamma secretase inhibitors	preclinical	emerging	25564152																																			
+ALL	NOTCH1	PEST domain p.2245-2536	mutation	gain-of-function	response	Gamma secretase inhibitors	early trials	emerging	ASCO 2006 (abstr 6585)	sensitivity	Gamma secretase inhibitors	preclinical	emerging	"15472075, 19778842, 22510873, 23001755"	sensitivity	Gamma secretase inhibitors + mTOR inhibitors	preclinical	emerging	19246562	sensitivity	Gamma secretase inhibitors + CDK4 inhibitors	preclinical	emerging	19318552	response	steroids early setting	late trials	emerging	"20861909, 20861920, 20944675"															
+ALL	NOTCH1	HD p.1529-1723	mutation	gain-of-function	response	Gamma secretase inhibitors	early trials	emerging	ASCO 2006 (abstr 6585)	sensitivity	Gamma secretase inhibitors	preclinical	emerging	"15472075, 19778842, 22510873, 23001755  "	sensitivity	Gamma secretase inhibitors + mTOR inhibitors	preclinical	emerging	19246562	sensitivity	Gamma secretase inhibitors + CDK4 inhibitors	preclinical	emerging	19318552	response	steroids early setting	late trials	emerging	"20861909, 20861920, 20944675"															
+Breast	NOTCH2	PEST domain p.2010-2472	mutation	gain-of-function	sensitivity	Gamma secretase inhibitors	preclinical	emerging	25564152																																			
+Breast	NOTCH2	rearrangement	fusion gene	gain-of-function	sensitivity	Gamma secretase inhibitors	preclinical	emerging	22101766																																			
+AML	NPM1	any	mutation	loss-of-function	response	 daunorubicin	FDA-approved	consensus	22417203	response	ATRA (non-FLT3 ITD AML)	late trials	emerging	19059939																														
+Colorectal	NRAS	wild type	no mutation	not applicable	response	"cetuximab, panitumumab"	FDA-approved	consensus	FDA																																			
+ALL	NRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	18701506																																			
+AML	NRAS	"codon 12, 13, 61"	mutation	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	22507781																																			
+Cancer	NRAS	G12C	missense mutation	gain-of-function	sensitivity	ERK inhibitors	preclinical	emerging	23614898																																			
+Lung_adeno 	NRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	sensitivity	MEK inhibitors	preclinical	emerging	23515407																																			
+Myeloma	NRAS	"codon 12, 13, 61"	missense mutation	gain-of-function	sensitivity	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	22985491																																			
+Colorectal	NRAS	"codon 12, 13, 61 "	missense mutation	gain-of-function	resistance	"cetuximab, panitumumab"	FDA-rejected	consensus	"24024839, 20619739, 23325582 "	sensitivity	MEK inhibitors +/- PI3K pathway inhibitors 	preclinical	emerging	"23274911, 22392911 "																														
+Melanoma	NRAS	Q61	missense mutation	gain-of-function	response	MEK inhibitors	late trials	emerging	23414587	response	MEK inhibitors + CDK4/6 inhibitors	early trials	emerging	ASCO 2014 (abstr 9009)	sensitivity	HSP90 inhibitors	preclinical	emerging	23538902	resistance	BRAF inhibitors  	case report	emerging	23569304	sensitivity	ERK inhibitors	preclinical	emerging 	23614898															
+Hepatocellular carcinoma	NRAS	any	mutation	gain-of-function	response	sorafenib + MEK inhibitor	"early trials, case report "	emerging	25294897																																			
+Lung_adeno 	NRG1	rearrangement	fusion gene	gain-of-function	sensitivity	lapatinib	preclinical	emerging	24727320																																			
+Colorectal	NTRK1	rearrangement	fusion gene	gain-of-function	response	pan-TRK inhibitor	case report 	emerging	ASCO 2015 (abstr 2517)																																			
+Lung_adeno 	NTRK1	rearrangement	fusion gene	gain-of-function	response	crizotinib	case report	emerging	ASCO 2013 (abstr 8023)	sensitivity	TRK inhibitors	preclinical	emerging	24162815																														
+Breast	NTRK3	rearrangement	fusion gene	gain-of-function	sensitivity	"midostaurin, IGF1R inhibitors, PI3K pathway inhibitors"	preclinical	emerging	"21148487, 23131561"																																			
+Melanoma	PAK1	amplification	copy number gain	gain-of-function	sensitivity	PAK inhibitors	preclinical	emerging	23535073																																			
+Pancreatic	PALB2	any	mutation or copy number loss	loss-of-function	response	Mytomycin C	case report	emerging	21135251	response	platinum	case report	emerging	25719666																														
+Brain	PDGFRA	amplification	copy number gain	gain-of-function	no sensitivity	PDGFR inhibitors	preclinical	emerging	23544171																																			
+Melanoma	PDGFRA	"P577S, R841K, H845Y, G853D"	missense mutation	gain-of-function	sensitivity	"imatinib, crenolanib"	preclinical	emerging	24132921																																			
+Hypereosinophilic syndrome	PDGFRA	T674I	missense mutation	gain-of-function	resistance	imatinib	case report	emerging	12660384																																			
+"Hypereosinophilic syndrome, CEL"	PDGFRA	rearrangement	fusion gene	gain-of-function	response	imatinib	FDA-approved	consensus	FDA																																			
+"MDS, MPD"	PDGFRA	rearrangement	fusion gene	gain-of-function	response	imatinib	FDA-approved	consensus	FDA																																			
+Melanoma	PDGFRA 	V658A	missense mutation	gain-of-function	sensitivity	crenolanib	preclinical	emerging	24132921	resistance	imatinib	preclinical	emerging	24132921																														
+GIST	PDGFRA 	wild type	no mutation	not applicable	decreased sensitivity	imatinib	late trials	emerging	"14645423, 18955458"	response	sunitinib	late trials	emerging	18955458	response	sorafenib	early trials	emerging	ASCO 2011 (abstr 10009)	sensitivity	dasatinib	preclinical	emerging	16397263																				
+GIST	PDGFRA 	exon 12 p.552-596	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA																																			
+GIST	PDGFRA 	exon 14 p.631-668	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA						 																													
+GIST	PDGFRA 	exon 18 p.814-854	mutation	gain-of-function	response	"imatinib, sunitinib, regorafenib"	FDA-approved	consensus	FDA																																			
+GIST	PDGFRA 	D842V	missense mutation	gain-of-function	resistance	"imatinib, sunitinib"	"late trials, preclinical"	emerging	"22718859, 16638875"	sensitivity	HSP90 inhibitors	preclinical	emerging	18794084	sensitivity	crenolanib	preclinical	emerging	22745105	sensitivity	dasatinib	preclinical	emerging	18794084																				
+Breast	PDPK1	amplification	copy number gain	gain-of-function	sensitivity	PI3K pathway inhibitors 	preclinical	emerging	19602588																																			
+Breast	PIK3CA	amplification	copy number gain	gain-of-function	resistance	PI3K pathway inhibitors	preclinical	emerging	24366379																																			
+Brain	PIK3CA	 any	mutation	gain-of-function	sensitivity	PI3K pathway inhibitors	preclinical	emerging	19671762																																			
+Gastric	PIK3CA	any	mutation	gain-of-function	response	PI3K alpha inhibitors	case report	emerging	ASCO 2015 (abstr 2501)																																			
+Head Neck	PIK3CA	any	mutation	gain-of-function	response	PI3K pathway inhibitors	case report	emerging	ASCO 2015 (abstr 6049)																																			
+Breast	PIK3CA	any	 mutation	gain-of-function	response	PI3K aplha inhibitors	early trials	emerging	"AACR 2013 (abstr LB-64), ESMO 2013 (abstr P017)"	response	PI3K pathway inhibitors	early trials	emerging	22271473	response	everolimus + trastuzumab + chemotherapy (HER2 ampl)	late trials	emerging	ASCO 2015 (abstr 512)	response	AKT inhibitors	early trials	emerging	ASCO 2015 (abstr 2500)																				
+Cervical	PIK3CA	any	 mutation	gain-of-function	response	PI3K pathway inhibitors	early trials	emerging	"22271473, ASCO 2013 (abstr 2531)"																																			
+Colorectal	PIK3CA	any 	 mutation	gain-of-function	response	aspirin in adjuvant setting	late trials	emerging	23094721	resistance	cetuximab  	late trials	emerging	"19223544, 20619739"	sensitivity	PI3K pathway inhibitors (alone or in combination)	preclinical	emerging	"23475782, 22392911  "																									
+Endometrial	PIK3CA	any	 mutation	gain-of-function	response	PI3K pathway inhibitors	early trials	emerging	"22271473, ASCO 2013 (abstr 2531), ASCO 2014 (abstr 5513)"		 	 																																
+Lung_adeno_squamous	PIK3CA	any 	mutation	gain-of-function	response	PI3K pathway inhibitors	case report	emerging	ESMO 2013 (abstr P017)	sensitivity	PI3K pathway inhibitors (alone or in combination)	preclinical	emerging	23136191																														
+Ovarian	PIK3CA	any	 mutation	gain-of-function	response	PI3K pathway inhibitors	early trials	emerging	"22271473, AACR 2013 (abstr LB-66), 25231405"																																			
+Thyroid	PIK3CA	any	missense mutation	gain-of-function	sensitivity	PI3K pathway inhibitors	preclinical	emerging	21289267																																			
+Head Neck	PIK3CB	any	mutation	gain-of-function	sensitivity	PI3K pathway inhibitors	preclinical	emerging	23619167																																			
+Brain	PIK3R1	any	 mutation	loss-of-function	sensitivity	AKT inhibitors	preclinical	emerging	23166678																																			
+Endometrial	PIK3R1	any	mutation	loss-of-function	response	PI3K pathway inhibitors	case report	emerging	ASCO 2015 (abstr 11075)																																			
+Endometrial	PIK3R2	A171V	missense mutation	loss-of-function	sensitivity	mTOR inhibitors	preclinical	emerging	"21984976, 19962665 "																																			
+Endometrial	PIK3R2	N561D	missense mutation	loss-of-function	sensitivity	mTOR inhibitors	preclinical	emerging	21984976																																			
+CLL	PLCG2	"R665W, L845F"	missense mutation	gain-of-function	resistance	ibrutinib	early trials	emerging	24869598																																			
+AML	PML-RARA	rearrangement	fusion gene	gain-of-function	response	ATRA + arsenic trioxide	FDA-approved	consensus	FDA																																			
+CML	PRKCH	amplification	copy number gain	gain-of-function	sensitivity	trametinib (plus imatinib in BCR-ABL)	preclinical	emerging	25186176																																			
+Basal cell carcinoma	PTCH1	any	mutation  	loss-of-function	response	vismodegib	FDA-approved	emerging	19726763																																			
+Medulloblastoma	PTCH1	any	mutation  	loss-of-function	response	vismodegib	FDA-approved	emerging	19726761	sensitivity	foretinib	preclinical	emerging	25391241																														
+Brain	PTEN	any	mutation or copy number loss	loss-of-function	sensitivity	PI3K pathway inhibitors (alone or in combination)	preclinical	emerging	"21325073, 21191045, 17804702"																																			
+Breast	PTEN	any	mutation or copy number loss	loss-of-function 	sensitivity	PI3K pathway inhibitors	preclinical	emerging	"23085766, 22932669"																																			
+Endometrial	PTEN	any	mutation or copy number loss	loss-of-function	response	PARP inhibitors	case report	emerging	"21468130, 20944090"	no response	mTOR inhibitors	early trials	emerging	"21788564, 23238879 "	sensitivity	PI3K pathway inhibitors	preclinical	emerging	22662154																									
+Lung_adeno_squamous	PTEN	any	mutation or copy number loss	loss-of-function	sensitivity	PI3K pathway inhibitors (alone or in combination)	preclinical	emerging	23136191																																			
+Melanoma	PTEN	any	mutation or copy number loss	loss-of-function	resistance	BRAF inhibitors in BRAF mutant tumor	preclinical	emerging	"21317224, 21725359"	resistance	MEK inhibitors in BRAF mutant tumors	preclinical	emerging	23039341																														
+Ovarian	PTEN	any	mutation or copy number loss	loss-of-function	sensitivity 	PI3K pathway inhibitors	preclinical	emerging	21632463	sensitivity 	PI3K pathway inhibitors + MEK inhibitors	preclinical	emerging	21632463																														
+Cancer	PTEN	any	mutation or copy number loss	loss-of-function	response	sirolimus	early trials	emerging	ASCO 2013 (abstr 2532)																																			
+Colorectal	PTEN	any	mutation or copy number loss	loss-of-function	resistance	anti-EGFR mAbs	late trials	emerging	"21163703, 19398573 "																																			
+Pancreatic	PTEN	any	mutation or copy number loss	loss-of-function	response	AKT inhibitors	case report	emerging	22025163																																			
+Prostate	PTEN	any	mutation or copy number loss	loss-of-function	response	everolimus	early trials	emerging	23582881	sensitivity	PI3K pathway inhibitors + AR antagonists	preclinical	emerging	21575859	response	PI3K beta inhibitor	case report	emerging	ASCO 2014 (abstr 2514^)																									
+Thyroid	PTEN	any	mutation or copy number loss	loss-of-function	sensitivity	PI3K pathway inhibitors	preclinical	emerging	21289267																																			
+Breast	PTEN	any	mutation or copy number loss	gain-of-function	resistance	PI3K aplha inhibitors	"early trials, case report "	emerging	25409150																																			
+Cancer	PTEN 	any	mutation or copy number loss	loss-of-function 	sensitivity	PI3K pathway inhibitors 	preclinical	emerging	"21673091, 23287563, 21998291 "																																			
+Melanoma	RAC1	P29S	missense mutation	gain-of-function	resistance	BRAF inhibitors in BRAF mutant tumors	case report	emerging	25056119																																			
+Cancer	RAD50	L1237F	missense mutation	loss-of-function	response	irinotecan plus CHK1/2 inhibitor in ATM deficient tumor	case report	emerging	24934408																																			
+Melanoma	RAF1	S257P	missense mutation	gain-of-function	resistance	BRAF inhibitors in BRAF mutant tumors	preclinical	emerging	23737487																																			
+Melanoma	RAF1	P261P	missense mutation	gain-of-function	resistance	BRAF inhibitors in BRAF mutant tumors	preclinical	emerging	23737487																																			
+Melanoma	RAF1	G361A	missense mutation	gain-of-function	resistance	BRAF inhibitors in BRAF mutant tumors	preclinical	emerging	23737487																																			
+Prostate	RAF1	rearrangement	fusion gene	gain-of-function	sensitivity	"sorafenib, MEK inhibitors"	preclinical	emerging	20526349																																			
+Retinoblastoma	RB1	any	mutation or copy number loss	loss-of-function	sensitivity	MDM2/MDMX inhibitors	preclinical	emerging	" 17080083, 21515735"	sensitivity	HDAC inhibitors	preclinical	emerging	18483379																														
+Lung_adeno	RET	rearrangement	fusion gene	gain-of-function	response	"cabozantinib, vandetanib"	"early trials, case report "	emerging	"23533264, 23584301, 25366691, ASCO 2015 (abstr 8007)"	sensitivity	RET inhibitors	preclinical	emerging	"22327624, 22327622"																														
+Thyroid	RET	"codon 618, 620, 634, 768, 791, 891, 918"	missense mutation	gain-of-function	response	vandetanib	FDA-approved	consensus	"20065189, 22025146"																																			
+Thyroid	RET	C634W	missense mutation	gain-of-function	response	vandetanib	FDA-approved	consensus	"20065189, 22025146"	sensitivity 	"cabozantinib, sunitinib"	preclinical	emerging	21470995	sensitivity	 RET inhibitors	preclinical	emerging	23056499																									
+Thyroid	RET	M918T	missense mutation	gain-of-function	response	vandetanib	FDA-approved	consensus	"20065189, 22025146"	sensitivity	"cabozantinib, sunitinib"	preclinical	emerging	21470995	sensitivity	 RET inhibitors	preclinical	emerging	23056499																									
+Thyroid	RET-PTC1	rearrangement	fusion gene	gain-of-function	sensitivity 	"cabozantinib, vandetanib, sunitinib"	preclinical	emerging	21470995	sensitivity	 RET inhibitors	preclinical	emerging	23056499																														
+Lung_adeno 	ROS1	rearrangement	fusion gene	gain-of-function	response	crizotinib	early trials	emerging	25264305	sensitivity	HSP90 inhibitors	preclinical	emerging	23533265																														
+Lung_adeno 	ROS1	G2032R	missense mutation	gain-of-function	resistance	crizotinib	case report	emerging	"23724914, 25688157"	sensitivity	cabozantinib	preclinical	emerging	25351743																														
+Inflammatory_myofibroblastic_tumor	ROS1	rearrangement	fusion gene	gain-of-function	response	crizotinib	case report	emerging	24875859																																			
+Cancer	SETD2	any	mutation or copy number loss	loss-of-function	sensitivity	WEE1 inhibitors	preclinical	emerging	ENA 2014 (abstr 211)																																			
+Cancer	SF3B1	"K700E, others (pending)"	mutation	gain-of-function	sensitivity	spliceosome inhibitor	preclinical	emerging	"ENA 2014 (abstr 456), ENA 2014 (abstr 575)"																																			
+MPN	SH2B3	any	mutation or copy number loss	loss-of-function	sensitivity	JAK inhibitors	preclinical	emerging	20404132																																			
+Medulloblastoma	SMO	D473H	missense mutation	gain-of-function	resistance	vismodegib	case report	emerging	"19726788, 25759019 "																																			
+Lymphoma	SOCS1	any	mutation 	loss-of-function	sensitivity	JAK inhibitors	preclinical	emerging	22025331																																			
+Brain	STAG2	any	mutation	loss-of-function	sensitivity	PARP inhibitors	preclinical	emerging	24356817																																			
+Cancer	STK11	any	mutation or copy number loss	loss-of-function 	sensitivity	mTOR inhibitors	preclinical	emerging	19541609																																			
+Lung_adeno 	STK11	any	mutation or copy number loss	loss-of-function	sensitivity	MEK inhibitors 	preclinical	emerging	19165201	resistance	MEK inhibitors + docetaxel in KRAS mutant	preclinical	emerging	22425996	sensitivity 	phenformin	preclinical	emerging	23352126	sensitivity	mTOR inhibitors 	preclinical	emerging	19165201	sensitivity	SRC inhibitors (in combination with PI3K/MEK inhibitors)	preclinical	emerging	20541700															
+Pancreatic	STK11	D194E	missense mutation	loss-of-function 	response	everolimus	case report	emerging	21189378																																			
+Cancer	SUZ12	any	mutation or copy number loss	loss-of-function	sensitivity	BET inhibitors	preclinical	emerging	25119042																																			
+"CLL, mantle cell lymphoma"	SYK	amplification	copy number gain	gain-of-function	sensitivity	SYK inhibitors	preclinical	emerging	"16409295, 19549911"																																			
+Prostate	TMPRSS2	rearrangement	fusion gene	gain-of-function	response	PARP inhibitors 	preclinical 	emerging 	21575865	sensitivity	DNA-PKc inhibitors	preclinical	emerging	21575865					 																									
+Breast	TOP2A	amplification	copy number gain	gain-of-function	response	anthracyclines	late trials	emerging	22864769																																			
+Ovarian	TP53	any	mutation	gain-of-function	response	WEE1 inhibitors + carboplatin	early trials	emerging	ASCO2015 (abstr 2507)																																			
+Head Neck	TP53	any	mutation	loss-of-function	sensitivity	WEE1 inhibitors	preclinical	emerging	25125259																																			
+Cancer	TP53	"R248Q, R172H"	missense mutation	gain-of-function	sensitivity	HSP90 inhibitors	preclinical	emerging	26009011																																			
+Thymic_Lymphoma	TP53	any	mutation or copy number loss	loss-of-function	sensitivity	pramlintide	preclinical	emerging	25409149																																			
+"Angiomyolipoma, PEComa"	TSC1	any	mutation	loss-of-function	response	mTOR inhibitors  	early trials	emerging	"23312829, 21525172, 20048174"																																			
+Renal	TSC1	any	mutation or copy number loss 	loss-of-function	response	everolimus	case report	emerging	"24622468, ASCO 2015 (abstr 11010), ASCO 2015 (abstr 4519)"																																			
+Urothelial	TSC1	any	mutation	loss-of-function	response	everolimus	early trials	emerging	22923433																																			
+Lymphangioleiomyomatosis	TSC2	any	mutation or copy number loss	loss-of-function	sensitivity	SRC inhibitors	preclinical	emerging	24691995																																			
+"Angiomyolipoma, PEComa"	TSC2	any	 mutation   	loss-of-function	response	mTOR inhibitors  	early trials	emerging	"23312829, 21525172, 20048174"																																			
+Thyroid	TSC2	any	mutation	loss-of-function	response	everolimus	case report	emerging	25295501																																			
+Hepatocellular carcinoma	VEGFA	amplification	copy number gain	gain-of-function	response	sorafenib	early trials	emerging	24687604																																			
