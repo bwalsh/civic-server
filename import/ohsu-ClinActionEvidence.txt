@@ -1,0 +1,859 @@
+entrez_gene	entrez_id	variant	variant_hgvs	variant_origin	Disease	DOID	Drug	pubchem_id	Evidence Type	Evidence Direction	Clinical Significance	Statement	Level	Source	Text	Type of study	Comments	Curator	stars	Include?	Variant Group	
+ABL1	25	T315A	N/A		ALL	9952	nilotinib	644241		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315A	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315I	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315I	N/A		ALL	9952	AURK inhibitors + BCR-ABL1 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ABL1	25	T315I	N/A		ALL	9952	axitinib	6450551		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ABL1	25	F317L/V/I/C	N/A		ALL	9952	nilotinib	644241		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F317L/V/I/C	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F359V/C/I	N/A		ALL	9952	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F359V/C/I	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315A	N/A		CML	8552	nilotinib	644241		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315A	N/A		CML	8552	bosutinib	5328940		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315A	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	T315I	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F317L/V/I/C	N/A		CML	8552	nilotinib	644241		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F317L/V/I/C	N/A		CML	8552	bosutinib	5328940		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F317L/V/I/C	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F359V/C/I	N/A		CML	8552	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F359V/C/I	N/A		CML	8552	bosutinib	5328940		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	F359V/C/I	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	Y253H	N/A		ALL	9952	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	Y253H	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	E255K/V	N/A		ALL	9952	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	E255K/V	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	V299L	N/A		ALL	9952	nilotinib	644241		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	V299L	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	Y253H	N/A		CML	8552	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	Y253H	N/A		CML	8552	bosutinib	5328940		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	Y253H	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	E255K/V	N/A		CML	8552	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	E255K/V	N/A		CML	8552	bosutinib	5328940		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	E255K/V	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	V299L	N/A		CML	8552	nilotinib	644241		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+ABL1	25	V299L	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+AKT1	207	E17K	N/A		Ovarian	2150	AKT inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT1	207	E17K	N/A		Breast	10199	AKT inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT1	207	E17K	N/A		Cancer	162	AKT inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT1	207	H238Y	N/A		Fibrous Histiocytoma	4415	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT1	207	Q79K	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	AKT inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Breast	10199	ATP-competitive AKT inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Inflammatory_myofibroblastic_tumor	N/A	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	ceritinib	57379345		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	novel ALK inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	ALK inhibitors + IGF1R inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	ALK inhibitors + SRC inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	F856S	N/A		ALL	9952	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	A348D	N/A		ALL	9952	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	L1196M	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	L1196M	N/A		Lung_adeno	N/A	ceritinib	57379345		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+ALK	238	L1152R	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	C1156Y	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	F1174L	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	F1174L	N/A		Lung_adeno	N/A	novel ALK inhibiors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	G1202R	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	S1206Y	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	S1206Y	N/A		Lung_adeno	N/A	ceritinib	57379345		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+ALK	238	G1269A	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	G1269A	N/A		Lung_adeno	N/A	ceritinib	57379345		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+ALK	238	1151Tins	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; insertion mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	1151Tins	N/A		Lung_adeno	N/A	ceritinib	57379345		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+ALK	238	I1171T	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	I1171T	N/A		Lung_adeno	N/A	alectinib	49806720		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	I1171T	N/A		Lung_adeno	N/A	ceritinib	57379345		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lymphoma	0060058	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Thyroid	1781	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ALK	238	R1275Q	N/A		Brain	2127	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	F1174L	N/A		Brain	2127	crizotinib	11626560		Supports	Negative	OHSU Import; missense mutation; reduced sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	G1128A	N/A		Brain	2127	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	I1171N	N/A		Brain	2127	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	R1192P	N/A		Brain	2127	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ALK	238	F1245C	N/A		Brain	2127	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Colorectal	9256	tankyrase inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AR	367	F876L 	N/A		Prostate	10290	enzalutamide	15951529		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AR	367	F876L 	N/A		Prostate	10290	ARN-509	24872560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AR	367	T877A	N/A		Prostate	10290	flutamide	3397		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AR	367	T877A	N/A		Prostate	10290	enzalutamide	15951529		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AR	367	T877A	N/A		Prostate	10290	ARN-509	24872560		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AR	367	W741	N/A		Prostate	10290	bicalutamide	2375		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AR	367	W741	N/A		Prostate	10290	enzalutamide	15951529		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AR	367	W741	N/A		Prostate	10290	ARN-509	24872560		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Prostate	10290	next-generation AR antagonists	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ARAF	369	S214C	N/A		Lung_adeno	N/A	sorafenib	216239		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ARAF	369	unknown	N/A		Colorectal	9256	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	EZH2 inhibitor	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AR	367	splice variant mRNA	N/A		Prostate	10290	enzalutamide	15951529		Supports	Resistance or Non-Response	OHSU Import; amplification; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AR	367	splice variant mRNA	N/A		Prostate	10290	abiraterone	132971		Supports	Resistance or Non-Response	OHSU Import; amplification; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	temozolomide	5394		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lymphoma	0060058	DNA-PKc inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Gastric	3229	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	temozolomide	5394		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	AURK inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Prostate	10290	AURK inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	HDAC inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Renal	2697	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lymphoma	0060058	BCL2 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	imatinib	5291		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	dasatinib	3062316		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	nilotinib	644241		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	imatinib	5291		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	dasatinib	3062316		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	ponatinib	24826799		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		CML	8552	imatinib	5291		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		CML	8552	dasatinib	3062316		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		CML	8552	nilotinib	644241		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		CML	8552	bosutinib	5328940		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		CML	8552	ponatinib	24826799		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	ruxolitinib	25126798		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Brain	2127	BRAF inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	panitumumab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	BRAF inhibitors +/- MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	BRAF inhibitors + MEK inhibitors + anti-EGFR mAbs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	BRAF inhibitors + anti-EGFR mAbs +/- PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	proteosome inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Colorectal	9256	mTOR inhibitors + BH3 mimetics	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		GIST	9253	dabrafenib	44462760		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Hairy cell leukemia	285	vemurafenib	42611257		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Lung_adeno	N/A	EGFR TKIs	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Lung_adeno	N/A	dabrafenib	44462760		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Lung_adeno	N/A	vemurafenib	42611257		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Lung_adeno	N/A	dabrafenib + trametinib	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	Y472C	N/A		Lung_adeno	N/A	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; reduced kinase activity; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Ovarian	2150	dabrafenib	44462760		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Ovarian	2150	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	G466V	N/A		Lung_adeno	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; reduced kinase activity; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Melanoma	1909	sorafenib	216239		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Prostate	10290	sorafenib	216239		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Prostate	10290	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	sorafenib	216239		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	G469A	N/A		Lung_adeno	N/A	EGFR TKIs	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	G469A	N/A		Lung_adeno	N/A	EGFR TKIs + MEK inhibitors in EGFR mutant	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	vemurafenib	42611257		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	dabrafenib	44462760		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	trametinib	11707110		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	dabrafenib + trametinib	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	BRAF inhibitors + PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	BRAF inhibitors + HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	BRAF inhibitors + CDK2/4 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Melanoma	1909	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	V600K	N/A		Melanoma	1909	trametinib	11707110		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+BRAF	673	V600K	N/A		Melanoma	1909	dabrafenib + trametinib	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+BRAF	673	V600K	N/A		Melanoma	1909	vemurafenib	42611257		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600R	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600R	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	K601R	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	L597R	N/A		Melanoma	1909	trametinib	11707110		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	L597R	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	L597R	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Myeloma	0070004	vemurafenib	42611257		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Thyroid	1781	vemurafenib	42611257		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Thyroid	1781	dabrafenib	44462760		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Thyroid	1781	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Thyroid	1781	MEK-inhibitor enhanced radioiodine uptake	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	V600E	N/A		Thyroid	1781	BRAF inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BRAF	673	D594G	N/A		Melanoma	1909	sorafenib	216239		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function (low activity); emerging; preclinical; 	B	N/A						1				N/A						1	
+BRAF	673	G469E	N/A		Melanoma	1909	sorafenib	216239		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function (low activity); emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	platinum agents	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	WEE1 inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	platinum agents	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PARP inhibitors + chemotherapy	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Prostate	10290	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Pancreatic	1793	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRCA1	672	deletion	N/A		Ovarian	2150	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	platinum agents	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	platinum agents	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PARP inhibitors + chemotherapy	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Prostate	10290	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRCA1	672	deletion	N/A		Ovarian	2150	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Pancreatic	1793	platinum	23939		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+BRD4	23476	BRD4-NUT fusion	N/A		NUT midline carcinoma	14131	BET inhibitors	N/A		Supports	Sensitivity	OHSU Import; rearrangement; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+BTK	695	C481S	N/A		CLL	1036	ibrutinib	24821094		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+BTK	695	C481	N/A		Mantle cell lymphoma	0050746	ibrutinib	24821094		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+CBL	867	Y371H	N/A		MPN	N/A	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CBL	867	Y371H	N/A		MPN	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CBL	867	C384R	N/A		MPN	N/A	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CBL	867	C384R	N/A		MPN	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Melanoma	1909	CDK4/6 inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	CDK2 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	PDL1 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Liposarcomas	3382	CDK4 inhibitors (tumors with RB expression)	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	CDK6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	CDK2/4 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	CDK2/4 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	CDK4/6 inhibitors	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	CDK4/6 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	CDK2 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Dermatofibrosarcoma protuberans	3507	imatinib	5291		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	BET inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	mTOR inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF1R	1436	Y571D	N/A		MPN	N/A	imatinib	5291		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	T615A	N/A		Atypical CML, CNL	5153	ruxolitinib	25126798		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	Q741X	N/A		Atypical CML, CNL	5153	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	Y752X	N/A		Atypical CML, CNL	5153	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	W791X	N/A		Atypical CML, CNL	5153	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	D771fs	N/A		Atypical CML, CNL	5153	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	S783fs	N/A		Atypical CML, CNL	5153	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+CSF3R	1441	T618I	N/A		Atypical CML, CNL	5153	ruxolitinib	25126798		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+CTNNB1	1499	H36Y, S37C, S37Y, D32V	N/A		Endometrial	1380	everolimus + letrozole	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Colorectal	9256	Tankyrase inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	S768R	N/A		Lung_squamous	N/A	dasatinib + erlotinib	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+DDR2	4921	S768R	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	I638F	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	L239R	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	G253C	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	G774V	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	L63V	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+DDR2	4921	G505S	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		AML	9119	daunorubicin	30323		Supports	Positive	OHSU Import; mutation; response; loss-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	A289V	N/A		Brain	2127	erlotinib	176870		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EGFR	1956	R108K	N/A		Brain	2127	erlotinib	176870		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EGFR	1956	G598V	N/A		Brain	2127	erlotinib	176870		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EGFR	1956	T263P	N/A		Brain	2127	erlotinib	176870		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Brain	2127	EGFR TKIs	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; no response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	exon 2-7 p.30-336	N/A		Brain	2127	EGFR TKIs	N/A		Supports	Resistance or Non-Response	OHSU Import; deletion mutation; no response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	S464L, G465R, I491M	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EGFR	1956	R451C	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	K467T	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	K467T	N/A		Colorectal	9256	panitumumab	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EGFR	1956	S492R	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	S492R	N/A		Colorectal	9256	panitumumab	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	S492R	N/A		Colorectal	9256	novel anti-EGFR mAbs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Colorectal	9256	anti-EGFR mAbs	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	E690K	N/A		Endometrial	1380	lapatinib	208908		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Head Neck	11934	gefitinib	123631		Supports	Resistance or Non-Response	OHSU Import; copy number gain; no response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	V843I	N/A		Head Neck	11934	gefitinib	123631		Supports	Resistance or Non-Response	OHSU Import; missense mutation; no response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	delL747-P753insS	N/A		Head Neck	11934	gefitinib	123631		Supports	Resistance or Non-Response	OHSU Import; indel; no response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	P546S	N/A		Head Neck	11934	cetuximab	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+EGFR	1956	L858R	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L858R	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L858R	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	L861Q	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861Q	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861Q	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	G719A	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719A	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719A	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	G719S	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719S	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719S	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	G719C	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719C	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719C	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	G719D	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719D	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	G719D	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	L747S	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L747S	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L747S	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	S768I	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	S768I	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	S768I	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	L861P	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861P	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861P	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	L861Q	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861Q	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861Q	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	L861R	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861R	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	L861R	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	C797S	N/A		Lung_adeno_squamous	N/A	irreversible EGFR T790M inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	T790M	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; NCCN/ CAP guidelines; 	A	N/A						1				N/A						1	
+EGFR	1956	T790M	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; NCCN/ CAP guidelines; 	A	N/A						1				N/A						1	
+EGFR	1956	T790M	N/A		Lung_adeno_squamous	N/A	afatinib + cetuximab	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	T790M	N/A		Lung_adeno_squamous	N/A	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	T790M	N/A		Lung_adeno_squamous	N/A	irreversible EGFR T790M inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	T790M	N/A		Lung_adeno_squamous	N/A	MEK inhibitors (alone or in combination)	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EGFR	1956	exon 19 p.729-761	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; insertion mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	exon 19 p.729-761	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; insertion mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	exon 19 p.729-761	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	exon 19 p.729-761	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Positive	OHSU Import; deletion mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	exon 19 p.729-761	N/A		Lung_adeno_squamous	N/A	afatinib	10184653		Supports	Positive	OHSU Import; deletion mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+EGFR	1956	exon 19 p.729-761	N/A		Lung_adeno_squamous	N/A	irreversible EGFR TKIs	N/A		Supports	N/A	OHSU Import; deletion mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lung_adeno_squamous	N/A	erlotinib	176870		Supports	Resistance or Non-Response	OHSU Import; copy number gain; no response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	exon 20 p.762-823	N/A		Lung_adeno_squamous	N/A	first-generation and irreversible EGFR TKIs	N/A		Supports	Negative	OHSU Import; insertion mutation; decreased sensitivity; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+EGFR	1956	exon 20 p.762-823	N/A		Lung_adeno_squamous	N/A	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EGFR	1956	P753S	N/A		Head Neck	11934	cetuximab + sirolimus	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Esophageal	9021	gefitinib	123631		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	dasatinib	3062316		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EPHA2	1969	G391R	N/A		Lung_squamous	N/A	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EPHA2	1969	G391R	N/A		Lung_squamous	N/A	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	EPHA3 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	L755S	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	G309A	N/A		Breast	10199	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	G309A	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	755-759del	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; deletion mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	D769Y	N/A		Breast	10199	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	D769Y	N/A		Breast	10199	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	D769Y	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	D769H	N/A		Breast	10199	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	D769H	N/A		Breast	10199	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	D769H	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	R896C	N/A		Breast	10199	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	R896C	N/A		Breast	10199	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	R896C	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	V777L	N/A		Breast	10199	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	V777L	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	P780_Y781insGSP	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; insertion mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	V842I	N/A		Breast	10199	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	V842I	N/A		Breast	10199	neratinib	9915743		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	G309E	N/A		Cancer	162	ERBB2 TKIs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	G309E	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	S310F	N/A		Cancer	162	ERBB2 TKIs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	S310F	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	S310Y	N/A		Cancer	162	ERBB2 TKIs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	S310Y	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	C311R	N/A		Cancer	162	ERBB2 TKIs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	C311R	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	E321G	N/A		Cancer	162	ERBB2 TKIs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	C334S	N/A		Cancer	162	ERBB2 TKIs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	trastuzumab	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	lapatinib	208908		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	pertuzumab	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	ado-trastuzumab emtansine	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	neratinib	9915743		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	afatinib	10184653		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	trastuzumab + HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	trastuzumab + everolimus + chemotherapy	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ERBB2	2064	V659E	N/A		Breast	10199	lapatinib	208908		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Colorectal	9256	anti-EGFR mAbs	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Colorectal	9256	trastuzumab + lapatinib (in KRAS wt)	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Endometrial	1380	trastuzumab alone	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; no response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Endometrial	1380	trastuzumab + lapatinib	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Gastric	3229	trastuzumab	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Gastric	3229	afatinib	10184653		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Head Neck	11934	trastuzumab-based chemotherapy	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ERBB2	2064	proximal exon 20 p.775-881	N/A		Lung_adeno	N/A	afatinib	10184653		Supports	Positive	OHSU Import; insertion mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ERBB2	2064	proximal exon 20 p.775-881	N/A		Lung_adeno	N/A	trastuzumab-based therapy	N/A		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ERBB2	2064	proximal exon 20 p.775-881	N/A		Lung_adeno	N/A	trastuzumab	N/A		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	proximal exon 20 p.775-881	N/A		Lung_adeno	N/A	lapatinib	208908		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	proximal exon 20 p.775-881	N/A		Lung_adeno	N/A	neratinib	9915743		Supports	N/A	OHSU Import; insertion mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB2	2064	G776L	N/A		Lung_adeno	N/A	trastuzumab-based therapy	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ERBB2	2064	V659E	N/A		Lung_adeno	N/A	lapatinib	208908		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Ovarian	2150	trastuzumab	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Ovarian	2150	trastuzumab	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ERBB2	2064	pending	N/A		Lung_adeno	N/A	neratinib plus temsirolimus	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ERBB3	2065	P262H	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	P262H	N/A		Cancer	162	pertuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	P262H	N/A		Cancer	162	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	P262H	N/A		Cancer	162	anti-HER3 mAbs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	P262H	N/A		Cancer	162	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	G284R	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	G284R	N/A		Cancer	162	pertuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	G284R	N/A		Cancer	162	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	G284R	N/A		Cancer	162	anti-HER3 mAbs	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	G284R	N/A		Cancer	162	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	Q809R	N/A		Cancer	162	trastuzumab	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	Q809R	N/A		Cancer	162	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	Q809R	N/A		Cancer	162	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB3	2065	G284R	N/A		Urothelial	7244	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ERBB3	2065	R103G	N/A		Urothelial	7244	afatinib	10184653		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ERBB4	2066	E317K	N/A		Melanoma	1909	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB4	2066	E452K	N/A		Melanoma	1909	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PIK3CA	5290	E542K	N/A		Melanoma	1909	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB4	2066	R544W	N/A		Melanoma	1909	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB4	2066	R393W	N/A		Melanoma	1909	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ERBB4	2066	E872K	N/A		Melanoma	1909	lapatinib	208908		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	lapatinib	208908		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	afatinib	10184653		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno_squamous	N/A	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno_squamous	N/A	cisplatin	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Urothelial	7244	cisplatin	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	cisplatin	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	cisplatin	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ESR1	2099	ERS1-YAP1 rearrangement	N/A		Breast	10199	anti-estrogens	N/A		Supports	Resistance or Non-Response	OHSU Import; fusion gene; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ESR1	2099	E380Q	N/A		Breast	10199	anti-estrogens	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ESR1	2099	codon 537	N/A		Breast	10199	anti-estrogens	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ESR1	2099	codon 537	N/A		Breast	10199	novel estrogen receptor degrader	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ESR1	2099	codon 538	N/A		Breast	10199	anti-estrogens	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ESR1	2099	codon 538	N/A		Breast	10199	novel estrogen receptor degrader	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ESR1	2099	L536	N/A		Breast	10199	anti-estrogens	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ESR1	2099	P535H	N/A		Breast	10199	anti-estrogens	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+EZH2	2146	Y641	N/A		Lymphoma	0060058	EZH2 inhibitor	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EZH2	2146	Y646F	N/A		Lymphoma	0060058	EZH2 inhibitor	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+EZH2	2146	A677	N/A		Lymphoma	0060058	EZH2 inhibitor	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		ALL	9952	steroids in early setting	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	anti-tubulin agents	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation or copy number loss; resistance; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	dovitinib	9886808		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	dovitinib	9886808		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lung_squamous	N/A	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Head Neck	11934	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Biliary	4140	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FGFR2	2263	S252W	N/A		Endometrial	1380	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	N549K	N/A		Endometrial	1380	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	V565I	N/A		Endometrial	1380	dovitinib	9886808		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	V565I	N/A		Endometrial	1380	ponatinib	24826799		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	V565I	N/A		Endometrial	1380	selective FGFR inhibitor	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	M536I, M538I, I548V, N550, E566G, L618M, K660E	N/A		Endometrial	1380	dovitinib	9886808		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	M536I, M538I, I548V, N550, E566G, L618M, K660E	N/A		Endometrial	1380	ponatinib	24826799		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Gastric	3229	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+FGFR2	2263	P253R	N/A		Head Neck	11934	pazopanib	10113978		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FGFR2	2263	W290C	N/A		Lung_squamous	N/A	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	S320C	N/A		Lung_squamous	N/A	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR2	2263	K660N	N/A		Lung_squamous	N/A	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Brain	2127	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Urothelial	7244	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Urothelial	7244	FGFR inhibitors	N/A		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FGFR3	2261	Y373C	N/A		Myeloma	0070004	bortezomib	387447		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR3	2261	Y373C	N/A		Myeloma	0070004	FGFR inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR3	2261	K650	N/A		Myeloma	0070004	bortezomib	387447		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR3	2261	K650	N/A		Myeloma	0070004	FGFR inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR3	2261	V555M	N/A		Myeloma	0070004	FGFR inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR4	2264	K535	N/A		Rhabdomyosarcoma	3247	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FGFR4	2264	E550	N/A		Rhabdomyosarcoma	3247	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Renal	2697	everolimus	6442177		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Thyroid	1781	everolimus	6442177		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FLT3	2322	F691	N/A		AML	9119	quizartinib	24889392		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	F691	N/A		AML	9119	novel FLT3 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	D835	N/A		AML	9119	quizartinib	24889392		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	D835	N/A		AML	9119	ponatinib	24826799		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	D835	N/A		AML	9119	sorafenib	216239		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FLT3	2322	D835	N/A		AML	9119	midostaurin	9829523		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FLT3	2322	D835	N/A		AML	9119	lestaurtinib	126565		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+FLT3	2322	N676	N/A		AML	9119	quizartinib	24889392		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	N676	N/A		AML	9119	crenolanib	10366136		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	N676	N/A		AML	9119	PKC412	9829523		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	Y842	N/A		AML	9119	quizartinib	24889392		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	Y842	N/A		AML	9119	ponatinib	24826799		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	Y842	N/A		AML	9119	crenolanib	10366136		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	Y842	N/A		AML	9119	PKC412	9829523		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+FLT3	2322	ITD (Y591-597)	N/A		AML	9119	quizartinib	24889392		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+FLT3	2322	ITD (Y591-597)	N/A		AML	9119	FLT3 inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+FLT3	2322	ITD (Y591-597)	N/A		AML	9119	sorafenib	216239		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+FLT3	2322	ITD (Y591-597)	N/A		AML	9119	sorafenib + azacytidine	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Liposarcomas	3382	FGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	aromatase inhhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+GNA11	2767	Q209L	N/A		Melanoma	1909	selumetinib	10127622		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+GNA11	2767	Q209L	N/A		Melanoma	1909	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+GNA11	2767	Q209P	N/A		Melanoma	1909	selumetinib	10127622		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+GNA11	2767	Q209P	N/A		Melanoma	1909	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+GNAQ	2776	Q209	N/A		Melanoma	1909	selumetinib	10127622		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+GNAQ	2776	Q209	N/A		Melanoma	1909	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+GNAQ	2776	Q209	N/A		Melanoma	1909	PKC inhibitor	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+GNAS	2778	R201	N/A		Cancer	162	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	trastuzumab in HER2-ampl	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		AML	9119	MEK inhibitors +/- mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+HRAS	3265	codon 12	N/A		Cervical	0050840	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+HRAS	3265	codon 12	N/A		Cervical	0050840	mTOR inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+IDH1	3417	R132H	N/A		Brain	2127	IDH1 inhibitor	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; switch-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ARAF	369	unknown	N/A		AML	9119	IDH1 inhibitor	N/A		Supports	Positive	OHSU Import; missense mutation; response; switch-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+ARAF	369	unknown	N/A		AML	9119	BCL2 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; switch-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+IDH2	3418	R140Q	N/A		AML	9119	IDH2 inhibitor	N/A		Supports	Positive	OHSU Import; missense mutation; response; switch-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+IDH2	3418	R172K	N/A		AML	9119	IDH2 inhibitor	N/A		Supports	Positive	OHSU Import; missense mutation; response; switch-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lung_adeno	N/A	erlotinib	176870		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+IL7R	3575	237-255_indel or S185C	N/A		ALL	9952	ruxolitinib (in SH2B3 deleted)	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+IL7R	3575	237-255_indel or S185C	N/A		ALL	9952	mTOR inhibitors  (in SH2B3 deleted)	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Malignant Rhabdoid Tumor	2129	EZH2 inhibitor	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK1	3716	S646F	N/A		ALL	9952	ruxolitinib	25126798		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	ruxolitinib	25126798		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK2	3717	R683	N/A		ALL	9952	ruxolitinib	25126798		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK2	3717	V617F	N/A		AML	9119	ruxolitinib	25126798		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+JAK2	3717	V617F	N/A		AML	9119	JAK inhibitors (alone or in combination)	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK2	3717	V617F	N/A		Myelofibrosis	4971	ruxolitinib	25126798		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+JAK3	3718	R657Q	N/A		Megakaryoblastic leukemia	8761	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK3	3718	I87T	N/A		Megakaryoblastic leukemia	8761	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK3	3718	Q501H	N/A		Megakaryoblastic leukemia	8761	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK3	3718	A572V	N/A		Natural killer T cell lymphoma	1035	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+JAK3	3718	A573V	N/A		Natural killer T cell lymphoma	1035	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KDR	3791	A1065T	N/A		Cancer	162	VEGFR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	N822K	N/A		AML	9119	dasatinib	3062316		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 8 p.416-422	N/A		AML	9119	imatinib	5291		Supports	Sensitivity	OHSU Import; indel; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	V559I, H687Y, T670, V654A, A829P, D816, N822, Y823D	N/A		GIST	9253	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	D816V	N/A		AML	9119	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	exon 9 p.449-514	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 9 p.449-514	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 9 p.449-514	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 9 p.449-514	N/A		GIST	9253	imatinib (low dose)	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 9 p.449-514	N/A		GIST	9253	sorafenib	216239		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 9 p.449-514	N/A		GIST	9253	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	sunitinib	5329102		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	sorafenib	216239		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592	N/A		GIST	9253	ponatinib	24826799		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 14 p.664-714	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 14 p.664-714	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 14 p.664-714	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 14 p.664-714	N/A		GIST	9253	imatinib	5291		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	imatinib	5291		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	sunitinib	5329102		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	nilotinib	644241		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	sorafenib	216239		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828	N/A		GIST	9253	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828, exon 18 p.829-860	N/A		GIST	9253	ponatinib	24826799		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	T670I	N/A		GIST	9253	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	A82P9, V654A, T670I	N/A		GIST	9253	ponatinib	24826799		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592, exon 13 p.627-664	N/A		Melanoma	1909	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592, exon 13 p.627-664	N/A		Melanoma	1909	imatinib	5291		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592, exon 13 p.627-664	N/A		Melanoma	1909	sunitinib	5329102		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592, exon 13 p.627-664	N/A		Melanoma	1909	dasatinib	3062316		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592, exon 13 p.627-664	N/A		Melanoma	1909	sorafenib	216239		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	exon 11 p.550-592, exon 13 p.627-664	N/A		Melanoma	1909	nilotinib	644241		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828, exon 18 p.829-860	N/A		Melanoma	1909	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	exon 17 p.788-828, exon 18 p.829-860	N/A		Melanoma	1909	sorafenib	216239		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	D820Y	N/A		Melanoma	1909	imatinib	5291		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	D820Y	N/A		Melanoma	1909	nilotinib	644241		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Melanoma	1909	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; copy number gain; no response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Melanoma	1909	imatinib	5291		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Melanoma	1909	sunitinib	5329102		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	Y553N	N/A		Thymic	7350	imatinib	5291		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	Y553N	N/A		Thymic	7350	sunitinib	5329102		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	D820E	N/A		Thymic	7350	sorafenib	216239		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	del577-578579	N/A		Thymic	7350	sorafenib	216239		Supports	Positive	OHSU Import; deletion mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	V560del	N/A		Thymic	7350	imatinib	5291		Supports	Positive	OHSU Import; deletion mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KIT	3815	H697Y	N/A		Thymic	7350	sunitinib	5329102		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	exon 13 p.627-664	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 13 p.627-664	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 13 p.627-664	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	exon 13 p.627-664	N/A		GIST	9253	imatinib	5291		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	imatinib	5291		Supports	Negative	OHSU Import; no mutation; decreased sensitivity; not applicable; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	sunitinib	5329102		Supports	N/A	OHSU Import; no mutation; ; not applicable; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	sorafenib	216239		Supports	N/A	OHSU Import; no mutation; ; not applicable; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	dasatinib	3062316		Supports	N/A	OHSU Import; no mutation; ; not applicable; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	D816V	N/A		Systemic mastocytosis	349	dasatinib	3062316		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+HRAS	3265	codon 12	N/A		ALL	9952	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		AML	9119	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Cervical	0050840	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Endometrial	1380	PI3K pathway inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Endometrial	1380	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13	N/A		Gastric	3229	anti-EGFR mAbs	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Biliary	4140	MEK inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		Colorectal	9256	cetuximab	N/A		Supports	Positive	OHSU Import; no mutation; response; not applicable; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		Colorectal	9256	panitumumab	N/A		Supports	Positive	OHSU Import; no mutation; response; not applicable; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; FDA-rejected; 	D	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	panitumumab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; FDA-rejected; 	D	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	mTOR inhibitors + BH3 mimetics	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	anti-EGFR mAbs + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	MEK inhibitors + PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	MEK inhibitors + BCL-XL inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	MEK inhibitors + IGF1R inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 146	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 146	N/A		Colorectal	9256	panitumumab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 146	N/A		Colorectal	9256	MEK inhibitors + PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+HRAS	3265	codon 12	N/A		GIST	9253	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	EGFR TKIs	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; NCCN guidelines; 	A	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	BET inhibitors in LKB1 wt	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	CDK4 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	HSP90 inhibitors (in combination)	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	JAK/TBK1/IKK? inhibitor	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno_squamous	N/A	FAK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Pancreatic	1793	gemcitabine + MEK inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Pancreatic	1793	PI3K pathway inhibitors + MEK inhibitor	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Myeloma	0070004	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Colorectal	9256	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Hepatocellular carcinoma	684	sorafenib + MEK inhibitor	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials, case report; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Ovarian	2150	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Ovarian	2150	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	liposomal doxorubicin	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation or copy number loss; resistance; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+MAP2K1	5604	I99T	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	L115	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	G128D	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	F129L	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	F129L	N/A		Cancer	162	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	V211D	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	L215P	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	L215P	N/A		Cancer	162	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	I103N	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	I103N	N/A		Cancer	162	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	K104N	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	I111N	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	H119P	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	E120D	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	F133L	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	Q56P	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124	N/A		Cancer	162	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	D67N	N/A		Cancer	162	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124L	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124L	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124S	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumor	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+MAP2K1	5604	P124	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	P124	N/A		Melanoma	1909	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	I111S	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumor	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	K57E	N/A		Melanoma	1909	vemurafenib	42611257		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	K57N	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	C121S	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	C121S	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	C121S	N/A		Melanoma	1909	novel MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	E203K	N/A		Melanoma	1909	vemurafenib	42611257		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	E203K	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	E203K	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	Q56P	N/A		Melanoma	1909	vemurafenib	42611257		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K1	5604	Q56P	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K1	5604	Q56P	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ARAF	369	unknown	N/A		Colorectal	9256	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K2	5605	Q60P	N/A		Melanoma	1909	BRAF + MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MAP2K2	5605	Q60P	N/A		Melanoma	1909	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K2	5605	V35M, L46F, N126D, C125S	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K2	5605	V35M, L46F, N126D, C125S	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MAP2K2	5605	V35M, L46F, N126D, C125S	N/A		Melanoma	1909	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Cancer	162	anti-tubulin agents	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Liposarcomas	3382	MDM2 inhibitors (tumors TP53 wt)	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Sarcoma	1115	MDM2/MDMX inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	V1092I	N/A		Cancer	162	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	H1049R	N/A		Cancer	162	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	M1250I	N/A		Cancer	162	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	R988C	N/A		Cancer	162	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	T1010I	N/A		Cancer	162	crizotinib	11626560		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	Y1230C	N/A		Cancer	162	crizotinib	11626560		Supports	Negative	OHSU Import; missense mutation; reduced sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	Y1235D	N/A		Cancer	162	crizotinib	11626560		Supports	Negative	OHSU Import; missense mutation; reduced sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MET	4233	H1112L	N/A		Cancer	162	MET inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Brain	2127	crizotinib	11626560		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	trastuzumab in HER2-amplified	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Gastric	3229	MET inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Gastric	3229	MET inhibitors	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Gastric	3229	lapatinib in HER2-amplified	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Lung_adeno	N/A	EGFR TKIs (EGFR mutant disease)	N/A		Supports	N/A	OHSU Import; copy number gain; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+MET	4233	M1268T	N/A		Renal	2697	MET inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MET	4233	H1094R	N/A		Renal	2697	MET inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Renal	2697	MET inhibitors	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	temozolomide	5394		Supports	Positive	OHSU Import; promoter methylation or deletion; increased benefit; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		AML	9119	daunorubicin	30323		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		AML	9119	HDAC inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		AML	9119	DOT1L inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		AML	9119	BET inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MPL	4352	W515F	N/A		MPN	N/A	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	DNA-PKcs inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MTOR	2475	L1460P	N/A		Cancer	162	rapamycin	5284616		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MTOR	2475	S2215Y	N/A		Cancer	162	rapamycin	5284616		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MTOR	2475	R2505P	N/A		Cancer	162	rapamycin	5284616		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MTOR	2475	Q2223K	N/A		Renal	2697	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	E2014K	N/A		Urothelial	7244	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	E2419K	N/A		Urothelial	7244	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	N1421D	N/A		Urothelial	7244	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	I1973F	N/A		Angiosarcoma	0001816	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	K1771R	N/A		Gastric	3229	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	F2108L	N/A		Cancer	162	everolimus	6442177		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+MTOR	2475	F2108L	N/A		Cancer	162	mTOR kinase inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Neuroblastoma	769	BET inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Prostate	10290	PIM inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Myeloma	0070004	BET inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Neuroblastoma	769	BET inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Neuroblastoma	769	CDK7 inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+MYD88	4615	L265P	N/A		Lymphoma	0060058	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	trametinib	11707110		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumor	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	MEK inhibitors in BRAF mutant tumors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+NF1	4763	D1644A	N/A		Head Neck	11934	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		MPNST, leukemia	N/A	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		MPNST, leukemia	N/A	MEK inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		MPNST, leukemia	N/A	mTOR inhibitors + HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Mesothelioma	4488	FAK inhibitors	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Schwannoma	3192	bevacizumab	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Schwannoma	3192	lapatinib	208908		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Schwannoma	3192	PAK inhibitors	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Meningioma, Schwannoma, PEComa	7437	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		ALL	9952	Gamma secretase inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Breast	10199	Gamma secretase inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Mantle cell lymphoma	0050746	Gamma secretase inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	PEST domain p.2245-2536	N/A		Breast	10199	Gamma secretase inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	PEST domain p.2245-2536	N/A		ALL	9952	Gamma secretase inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+NOTCH1	4851	PEST domain p.2245-2536	N/A		ALL	9952	Gamma secretase inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	PEST domain p.2245-2536	N/A		ALL	9952	Gamma secretase inhibitors + mTOR inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	PEST domain p.2245-2536	N/A		ALL	9952	Gamma secretase inhibitors + CDK4 inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	PEST domain p.2245-2536	N/A		ALL	9952	steroids early setting	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+NOTCH1	4851	HD p.1529-1723	N/A		ALL	9952	Gamma secretase inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+NOTCH1	4851	HD p.1529-1723	N/A		ALL	9952	Gamma secretase inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	HD p.1529-1723	N/A		ALL	9952	Gamma secretase inhibitors + mTOR inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	HD p.1529-1723	N/A		ALL	9952	Gamma secretase inhibitors + CDK4 inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NOTCH1	4851	HD p.1529-1723	N/A		ALL	9952	steroids early setting	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+NOTCH2	4853	PEST domain p.2010-2472	N/A		Breast	10199	Gamma secretase inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Breast	10199	Gamma secretase inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		AML	9119	daunorubicin	30323		Supports	Positive	OHSU Import; mutation; response; loss-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+APC	324	any	N/A		AML	9119	ATRA (non-FLT3 ITD AML)	N/A		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		Colorectal	9256	cetuximab	N/A		Supports	Positive	OHSU Import; no mutation; response; not applicable; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		Colorectal	9256	panitumumab	N/A		Supports	Positive	OHSU Import; no mutation; response; not applicable; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		ALL	9952	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		AML	9119	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	G12C	N/A		Cancer	162	ERK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Lung_adeno	N/A	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Myeloma	0070004	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	cetuximab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; FDA-rejected; 	D	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	panitumumab	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; consensus; FDA-rejected; 	D	N/A						1				N/A						1	
+KRAS	3845	codon 12, 13, 61	N/A		Colorectal	9256	MEK inhibitors +/- PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NRAS	4893	Q61	N/A		Melanoma	1909	MEK inhibitors	N/A		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+NRAS	4893	Q61	N/A		Melanoma	1909	MEK inhibitors + CDK4/6 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+NRAS	4893	Q61	N/A		Melanoma	1909	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+NRAS	4893	Q61	N/A		Melanoma	1909	BRAF inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+NRAS	4893	Q61	N/A		Melanoma	1909	ERK inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Hepatocellular carcinoma	684	sorafenib + MEK inhibitor	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials, case report; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	lapatinib	208908		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Colorectal	9256	pan-TRK inhibitor	N/A		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	TRK inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Breast	10199	midostaurin	9829523		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Breast	10199	IGF1R inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Breast	10199	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Melanoma	1909	PAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Pancreatic	1793	Mytomycin C	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Pancreatic	1793	platinum	23939		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Brain	2127	PDGFR inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; no sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	P577S, R841K, H845Y, G853D	N/A		Melanoma	1909	imatinib	5291		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	P577S, R841K, H845Y, G853D	N/A		Melanoma	1909	crenolanib	10366136		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	T674I	N/A		Hypereosinophilic syndrome	225	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Hypereosinophilic syndrome, CEL	N/A	imatinib	5291		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		MDS, MPD	N/A	imatinib	5291		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	V658A	N/A		Melanoma	1909	crenolanib	10366136		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	V658A	N/A		Melanoma	1909	imatinib	5291		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	imatinib	5291		Supports	Negative	OHSU Import; no mutation; decreased sensitivity; not applicable; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	sunitinib	5329102		Supports	N/A	OHSU Import; no mutation; ; not applicable; emerging; late trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	sorafenib	216239		Supports	N/A	OHSU Import; no mutation; ; not applicable; emerging; early trials; 	C	N/A						1				N/A						1	
+KIT	3815	wild type	N/A		GIST	9253	dasatinib	3062316		Supports	N/A	OHSU Import; no mutation; ; not applicable; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	exon 12 p.552-596	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 12 p.552-596	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 12 p.552-596	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 14 p.631-668	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 14 p.631-668	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 14 p.631-668	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 18 p.814-854	N/A		GIST	9253	imatinib	5291		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 18 p.814-854	N/A		GIST	9253	sunitinib	5329102		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	exon 18 p.814-854	N/A		GIST	9253	regorafenib	11167602		Supports	Positive	OHSU Import; mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+PDGFRA	5156	D842V	N/A		GIST	9253	imatinib	5291		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; late trials, preclinical; 	C	N/A						1				N/A						1	
+PDGFRA	5156	D842V	N/A		GIST	9253	sunitinib	5329102		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; late trials, preclinical; 	C	N/A						1				N/A						1	
+PDGFRA	5156	D842V	N/A		GIST	9253	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	D842V	N/A		GIST	9253	crenolanib	10366136		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PDGFRA	5156	D842V	N/A		GIST	9253	dasatinib	3062316		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	PI3K pathway inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; copy number gain; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Gastric	3229	PI3K alpha inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Head Neck	11934	PI3K pathway inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PI3K aplha inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	everolimus + trastuzumab + chemotherapy (HER2 ampl)	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	AKT inhibitors	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Cervical	0050840	PI3K pathway inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Colorectal	9256	aspirin in adjuvant setting	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Colorectal	9256	cetuximab	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Colorectal	9256	PI3K pathway inhibitors (alone or in combination)	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Endometrial	1380	PI3K pathway inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno_squamous	N/A	PI3K pathway inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno_squamous	N/A	PI3K pathway inhibitors (alone or in combination)	N/A		Supports	N/A	OHSU Import; mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PI3K pathway inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Thyroid	1781	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Head Neck	11934	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	AKT inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Endometrial	1380	PI3K pathway inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+PIK3R2	5296	A171V	N/A		Endometrial	1380	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PIK3R2	5296	N561D	N/A		Endometrial	1380	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+PLCG2	5336	R665W, L845F	N/A		CLL	1036	ibrutinib	24821094		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		AML	9119	ATRA + arsenic trioxide	N/A		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		CML	8552	trametinib (plus imatinib in BCR-ABL)	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Basal cell carcinoma	2513	vismodegib	24776445		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; FDA-approved; 	A	N/A						1				N/A						1	
+APC	324	any	N/A		Medulloblastoma	0050902	vismodegib	24776445		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; FDA-approved; 	A	N/A						1				N/A						1	
+APC	324	any	N/A		Medulloblastoma	0050902	foretinib	42642645		Supports	N/A	OHSU Import; mutation; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	PI3K pathway inhibitors (alone or in combination)	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Endometrial	1380	PARP inhibitors	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Endometrial	1380	mTOR inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Endometrial	1380	PI3K pathway inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno_squamous	N/A	PI3K pathway inhibitors (alone or in combination)	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumor	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation or copy number loss; resistance; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Melanoma	1909	MEK inhibitors in BRAF mutant tumors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	PI3K pathway inhibitors + MEK inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	sirolimus	5284616		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Colorectal	9256	anti-EGFR mAbs	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation or copy number loss; resistance; loss-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Pancreatic	1793	AKT inhibitors	N/A		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Prostate	10290	everolimus	6442177		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Prostate	10290	PI3K pathway inhibitors + AR antagonists	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Prostate	10290	PI3K beta inhibitor	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Thyroid	1781	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Breast	10199	PI3K aplha inhibitors	N/A		Supports	Resistance or Non-Response	OHSU Import; mutation or copy number loss; resistance; gain-of-function; emerging; early trials, case report; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	PI3K pathway inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RAC1	5879	P29S	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+RAD50	10111	L1237F	N/A		Cancer	162	irinotecan plus CHK1/2 inhibitor in ATM deficient tumor	N/A		Supports	Positive	OHSU Import; missense mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+RAF1	5894	S257P	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RAF1	5894	P261P	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RAF1	5894	G361A	N/A		Melanoma	1909	BRAF inhibitors in BRAF mutant tumors	N/A		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Prostate	10290	sorafenib	216239		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Prostate	10290	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Retinoblastoma	768	MDM2/MDMX inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Retinoblastoma	768	HDAC inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	cabozantinib	25102847		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; early trials, case report; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	vandetanib	3081361		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; early trials, case report; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	RET inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RET	5979	codon 618, 620, 634, 768, 791, 891, 918	N/A		Thyroid	1781	vandetanib	3081361		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+RET	5979	C634W	N/A		Thyroid	1781	vandetanib	3081361		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+RET	5979	C634W	N/A		Thyroid	1781	cabozantinib	25102847		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RET	5979	C634W	N/A		Thyroid	1781	sunitinib	5329102		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RET	5979	C634W	N/A		Thyroid	1781	RET inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RET	5979	M918T	N/A		Thyroid	1781	vandetanib	3081361		Supports	Positive	OHSU Import; missense mutation; response; gain-of-function; consensus; FDA-approved; 	A	N/A						1				N/A						1	
+RET	5979	M918T	N/A		Thyroid	1781	cabozantinib	25102847		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RET	5979	M918T	N/A		Thyroid	1781	sunitinib	5329102		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+RET	5979	M918T	N/A		Thyroid	1781	RET inhibitors	N/A		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Thyroid	1781	cabozantinib	25102847		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Thyroid	1781	vandetanib	3081361		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Thyroid	1781	sunitinib	5329102		Supports	Sensitivity	OHSU Import; fusion gene; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Thyroid	1781	RET inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Lung_adeno	N/A	HSP90 inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+ROS1	6098	G2032R	N/A		Lung_adeno	N/A	crizotinib	11626560		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+ROS1	6098	G2032R	N/A		Lung_adeno	N/A	cabozantinib	25102847		Supports	N/A	OHSU Import; missense mutation; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Inflammatory_myofibroblastic_tumor	N/A	crizotinib	11626560		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	WEE1 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+SF3B1	23451	K700E, others (pending)	N/A		Cancer	162	spliceosome inhibitor	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		MPN	N/A	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+SMO	6608	D473H	N/A		Medulloblastoma	0050902	vismodegib	24776445		Supports	Resistance or Non-Response	OHSU Import; missense mutation; resistance; gain-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lymphoma	0060058	JAK inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Brain	2127	PARP inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	mTOR inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno	N/A	MEK inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno	N/A	MEK inhibitors + docetaxel in KRAS mutant	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno	N/A	phenformin	8249		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno	N/A	mTOR inhibitors	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Lung_adeno	N/A	SRC inhibitors (in combination with PI3K/MEK inhibitors)	N/A		Supports	N/A	OHSU Import; mutation or copy number loss; ; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+STK11	6794	D194E	N/A		Pancreatic	1793	everolimus	6442177		Supports	Positive	OHSU Import; missense mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Cancer	162	BET inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		CLL, mantle cell lymphoma	0050746	SYK inhibitors	N/A		Supports	Sensitivity	OHSU Import; copy number gain; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Prostate	10290	PARP inhibitors	N/A		Supports	Positive	OHSU Import; fusion gene; response; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT3	10000	rearrangement	N/A		Prostate	10290	DNA-PKc inhibitors	N/A		Supports	N/A	OHSU Import; fusion gene; ; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Breast	10199	anthracyclines	N/A		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; late trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Ovarian	2150	WEE1 inhibitors + carboplatin	N/A		Supports	Positive	OHSU Import; mutation; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Head Neck	11934	WEE1 inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+TP53	7157	R248Q, R172H	N/A		Cancer	162	HSP90 inhibitors	N/A		Supports	Sensitivity	OHSU Import; missense mutation; sensitivity; gain-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Thymic_Lymphoma	N/A	pramlintide	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Angiomyolipoma, PEComa	7437	mTOR inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Renal	2697	everolimus	6442177		Supports	Positive	OHSU Import; mutation or copy number loss; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Urothelial	7244	everolimus	6442177		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Lymphangioleiomyomatosis	3319	SRC inhibitors	N/A		Supports	Sensitivity	OHSU Import; mutation or copy number loss; sensitivity; loss-of-function; emerging; preclinical; 	B	N/A						1				N/A						1	
+APC	324	any	N/A		Angiomyolipoma, PEComa	7437	mTOR inhibitors	N/A		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; early trials; 	C	N/A						1				N/A						1	
+APC	324	any	N/A		Thyroid	1781	everolimus	6442177		Supports	Positive	OHSU Import; mutation; response; loss-of-function; emerging; case report; 	B	N/A						1				N/A						1	
+AKT2	208	amplification	N/A		Hepatocellular carcinoma	684	sorafenib	216239		Supports	Positive	OHSU Import; copy number gain; response; gain-of-function; emerging; early trials; 	C	N/A						1				N/A						1	

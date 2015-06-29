@@ -1,0 +1,645 @@
+entrez_gene	variant	Summary
+ABL1	T315A	The T315A mutation results in an amino acid substitution at position 315 in BCR-ABL1, from a threonine (T) to an alanine (A). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/232/
+ABL1	T315I	The T315I mutation results in an amino acid substitution at position 315 in BCR-ABL1, from a threonine (T) to an isoleucine (I). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/231/
+ABL1	T315I	The T315I mutation results in an amino acid substitution at position 315 in BCR-ABL1, from a threonine (T) to an isoleucine (I). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/231/
+ABL1	T315I	The T315I mutation results in an amino acid substitution at position 315 in BCR-ABL1, from a threonine (T) to an isoleucine (I). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/231/
+ABL1	F317L/V/I/C	Click edit to complete variant description
+ABL1	F359V/C/I	Click edit to complete variant description
+ABL1	T315A	The T315A mutation results in an amino acid substitution at position 315 in BCR-ABL1, from a threonine (T) to an alanine (A). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/232/
+ABL1	T315I	The T315I mutation results in an amino acid substitution at position 315 in BCR-ABL1, from a threonine (T) to an isoleucine (I). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/231/
+ABL1	F317L/V/I/C	Click edit to complete variant description
+ABL1	F359V/C/I	Click edit to complete variant description
+ABL1	Y253H	The Y253H mutation results in an amino acid substitution at position 253 in BCR-ABL1, from a tyrosine (Y) to a histidine (H). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/236/
+ABL1	E255K/V	Click edit to complete variant description
+ABL1	V299L	The V299L mutation results in an amino acid substitution at position 299 in BCR-ABL1, from a valine (V) to a leucine (L). Presence of point mutations in BCR-ABL1 has been implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/234/
+ABL1	Y253H	The Y253H mutation results in an amino acid substitution at position 253 in BCR-ABL1, from a tyrosine (Y) to a histidine (H). Presence of point mutations in BCR-ABL1 hasbeen implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/236/
+ABL1	E255K/V	Click edit to complete variant description
+ABL1	V299L	The V299L mutation results in an amino acid substitution at position 299 in BCR-ABL1, from a valine (V) to a leucine (L). Presence of point mutations in BCR-ABL1 has been implicated as a mechanism for development of imatinib resistance (reviewed in Soverini et al. 2011).Contributors: Aaron  Shaver, M.D., Ph.D., Madan  Jagasia, M.B.B.S., M.S. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/chronic-myeloid-leukemia/bcr-abl1/234/
+AKT1	H238Y	Click edit to complete variant description
+AKT1	Q79K	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+ALK	F856S	Click edit to complete variant description
+ALK	A348D	Click edit to complete variant description
+ALK	L1196M	Click edit to complete variant description
+ALK	L1196M	Click edit to complete variant description
+ALK	L1152R	Click edit to complete variant description
+ALK	C1156Y	Click edit to complete variant description
+ALK	G1202R	http://www.mycancergenome.org/about/articles-of-interest
+ALK	S1206Y	Click edit to complete variant description
+ALK	S1206Y	Click edit to complete variant description
+ALK	G1269A	Click edit to complete variant description
+ALK	G1269A	Click edit to complete variant description
+ALK	1151Tins	Click edit to complete variant description
+ALK	1151Tins	Click edit to complete variant description
+ALK	I1171T	Click edit to complete variant description
+ALK	I1171T	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+ALK	G1128A	Click edit to complete variant description
+ALK	I1171N	http://www.mycancergenome.org/content/disease/neuroblastoma/alk/175/
+ALK	R1192P	Click edit to complete variant description
+ALK	F1245C	http://www.mycancergenome.org/content/disease/neuroblastoma/alk/180/
+APC	any	Click edit to complete variant description
+AR	F876L 	Click edit to complete variant description
+AR	T877A	http://bioinfo.mc.vanderbilt.edu/TSGene/literature_highlight.cgi?gene=8031
+AR	T877A	http://bioinfo.mc.vanderbilt.edu/TSGene/literature_highlight.cgi?gene=8031
+AR	W741	Click edit to complete variant description
+AR	W741	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+ARAF	unknown	http://www.mc.vanderbilt.edu/root/vumc.php?test_id=338&doc=24499&site=vpls
+APC	any	Click edit to complete variant description
+AR	splice variant mRNA	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+BRAF	Y472C	http://www.mycancergenome.org/content/disease/lung-cancer/braf/209/
+BRAF	G466V	http://www.mycancergenome.org/content/disease/lung-cancer/braf/70/
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+BRAF	G469A	http://www.mycancergenome.org/content/disease/lung-cancer/braf/71/
+BRAF	G469A	http://www.mycancergenome.org/content/disease/lung-cancer/braf/71/
+BRAF	V600K	http://www.mycancergenome.org/content/disease/melanoma/braf/116/
+BRAF	V600K	http://www.mycancergenome.org/content/disease/melanoma/braf/116/
+BRAF	K601R	Click edit to complete variant description
+BRAF	L597R	http://www.mycancergenome.org/content/disease/melanoma/braf/138/
+BRAF	L597R	http://www.mycancergenome.org/content/disease/melanoma/braf/138/
+BRAF	D594G	http://www.mycancergenome.org/content/disease/melanoma/braf/148/
+BRAF	G469E	http://www.mycancergenome.org/content/disease/colorectal-cancer/braf/146/
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+BRCA1	deletion	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+BRCA1	deletion	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+BRD4	BRD4-NUT fusion	Click edit to complete variant description
+BTK	C481S	Click edit to complete variant description
+BTK	C481	Click edit to complete variant description
+CBL	Y371H	Click edit to complete variant description
+CBL	C384R	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+CSF1R	Y571D	Click edit to complete variant description
+CSF3R	T615A	Click edit to complete variant description
+CSF3R	Q741X	Click edit to complete variant description
+CSF3R	Y752X	Click edit to complete variant description
+CSF3R	W791X	Click edit to complete variant description
+CSF3R	D771fs	Click edit to complete variant description
+CSF3R	S783fs	Click edit to complete variant description
+CSF3R	T618I	Click edit to complete variant description
+CTNNB1	H36Y, S37C, S37Y, D32V	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+EGFR	A289V	Click edit to complete variant description
+EGFR	R108K	Click edit to complete variant description
+EGFR	G598V	Click edit to complete variant description
+EGFR	T263P	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+EGFR	exon 2-7 p.30-336	Click edit to complete variant description
+EGFR	S464L, G465R, I491M	Click edit to complete variant description
+EGFR	R451C	http://www.mc.vanderbilt.edu/labs/blakely/resources/2013-Blakely-pubs/PMID-24083388-Blakely-JVVW.pdf
+EGFR	K467T	Click edit to complete variant description
+EGFR	K467T	Click edit to complete variant description
+EGFR	S492R	Click edit to complete variant description
+EGFR	S492R	Click edit to complete variant description
+EGFR	S492R	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+EGFR	E690K	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+EGFR	V843I	Click edit to complete variant description
+EGFR	delL747-P753insS	Click edit to complete variant description
+EGFR	P546S	Click edit to complete variant description
+EGFR	L861Q	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/6/
+EGFR	L861Q	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/6/
+EGFR	G719A	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/1/
+EGFR	G719A	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/1/
+EGFR	G719C	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/2/
+EGFR	G719C	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/2/
+EGFR	G719D	Click edit to complete variant description
+EGFR	G719D	Click edit to complete variant description
+EGFR	L747S	Click edit to complete variant description
+EGFR	L747S	Click edit to complete variant description
+EGFR	S768I	Click edit to complete variant description
+EGFR	S768I	Click edit to complete variant description
+EGFR	L861P	Click edit to complete variant description
+EGFR	L861P	Click edit to complete variant description
+EGFR	L861Q	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/6/
+EGFR	L861Q	http://www.mycancergenome.org/content/disease/lung-cancer/egfr/6/
+EGFR	L861R	Click edit to complete variant description
+EGFR	L861R	Click edit to complete variant description
+EGFR	C797S	Click edit to complete variant description
+EGFR	exon 19 p.729-761	Click edit to complete variant description
+EGFR	exon 19 p.729-761	Click edit to complete variant description
+EGFR	exon 19 p.729-761	Click edit to complete variant description
+EGFR	exon 19 p.729-761	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+EGFR	exon 20 p.762-823	Click edit to complete variant description
+EGFR	exon 20 p.762-823	Click edit to complete variant description
+EGFR	P753S	http://www.mycancergenome.org/about/articles-of-interest
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+EPHA2	G391R	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+ERBB2	755-759del	Click edit to complete variant description
+ERBB2	P780_Y781insGSP	http://www.mycancergenome.org/content/disease/breast-cancer/erbb2/243/
+ERBB2	G309E	Click edit to complete variant description
+ERBB2	S310F	Click edit to complete variant description
+ERBB2	S310Y	Click edit to complete variant description
+ERBB2	C311R	Click edit to complete variant description
+ERBB2	E321G	Click edit to complete variant description
+ERBB2	C334S	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+ERBB2	V659E	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+ERBB2	proximal exon 20 p.775-881	Click edit to complete variant description
+ERBB2	proximal exon 20 p.775-881	Click edit to complete variant description
+ERBB2	proximal exon 20 p.775-881	Click edit to complete variant description
+ERBB2	G776L	Click edit to complete variant description
+ERBB2	V659E	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+ERBB2	pending	Click edit to complete variant description
+ERBB3	P262H	Click edit to complete variant description
+ERBB3	G284R	Click edit to complete variant description
+ERBB3	Q809R	Click edit to complete variant description
+ERBB3	G284R	Click edit to complete variant description
+ERBB3	R103G	Click edit to complete variant description
+ERBB4	E317K	Click edit to complete variant description
+ERBB4	E452K	Click edit to complete variant description
+ERBB4	R544W	Click edit to complete variant description
+ERBB4	R393W	Click edit to complete variant description
+ERBB4	E872K	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+ESR1	ERS1-YAP1 rearrangement	Click edit to complete variant description
+ESR1	E380Q	Click edit to complete variant description
+ESR1	codon 537	Click edit to complete variant description
+ESR1	codon 537	Click edit to complete variant description
+ESR1	codon 538	Click edit to complete variant description
+ESR1	codon 538	Click edit to complete variant description
+ESR1	L536	Click edit to complete variant description
+ESR1	P535H	Click edit to complete variant description
+EZH2	Y641	Click edit to complete variant description
+EZH2	Y646F	Click edit to complete variant description
+EZH2	A677	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+FGFR2	S252W	Click edit to complete variant description
+FGFR2	N549K	Click edit to complete variant description
+FGFR2	V565I	Click edit to complete variant description
+FGFR2	V565I	Click edit to complete variant description
+FGFR2	V565I	Click edit to complete variant description
+FGFR2	M536I, M538I, I548V, N550, E566G, L618M, K660E	Click edit to complete variant description
+FGFR2	M536I, M538I, I548V, N550, E566G, L618M, K660E	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+FGFR2	P253R	Click edit to complete variant description
+FGFR2	W290C	Click edit to complete variant description
+FGFR2	S320C	Click edit to complete variant description
+FGFR2	K660N	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+FGFR3	Y373C	Click edit to complete variant description
+FGFR3	Y373C	Click edit to complete variant description
+FGFR3	K650	Click edit to complete variant description
+FGFR3	K650	Click edit to complete variant description
+FGFR3	V555M	Click edit to complete variant description
+FGFR4	K535	Click edit to complete variant description
+FGFR4	E550	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+FLT3	F691	Click edit to complete variant description
+FLT3	F691	Click edit to complete variant description
+FLT3	D835	http://www.vicc.org/cache/tallman-martin2011.pdf?v=489599746
+FLT3	D835	http://www.vicc.org/cache/tallman-martin2011.pdf?v=489599746
+FLT3	D835	http://www.vicc.org/cache/tallman-martin2011.pdf?v=489599746
+FLT3	D835	http://www.vicc.org/cache/tallman-martin2011.pdf?v=489599746
+FLT3	D835	http://www.vicc.org/cache/tallman-martin2011.pdf?v=489599746
+FLT3	N676	Click edit to complete variant description
+FLT3	N676	Click edit to complete variant description
+FLT3	Y842	Click edit to complete variant description
+FLT3	Y842	Click edit to complete variant description
+FLT3	Y842	Click edit to complete variant description
+FLT3	ITD (Y591-597)	Click edit to complete variant description
+FLT3	ITD (Y591-597)	Click edit to complete variant description
+FLT3	ITD (Y591-597)	Click edit to complete variant description
+FLT3	ITD (Y591-597)	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+GNA11	Q209L	http://www.mycancergenome.org/content/disease/melanoma/gna11/99/
+GNA11	Q209L	http://www.mycancergenome.org/content/disease/melanoma/gna11/99/
+GNA11	Q209P	http://www.mycancergenome.org/content/disease/melanoma/gna11/101/
+GNA11	Q209P	http://www.mycancergenome.org/content/disease/melanoma/gna11/101/
+GNAQ	Q209	Click edit to complete variant description
+GNAQ	Q209	Click edit to complete variant description
+GNAQ	Q209	Click edit to complete variant description
+GNAS	R201	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+HRAS	codon 12	Click edit to complete variant description
+HRAS	codon 12	Click edit to complete variant description
+ARAF	unknown	http://www.mc.vanderbilt.edu/root/vumc.php?test_id=338&doc=24499&site=vpls
+ARAF	unknown	http://www.mc.vanderbilt.edu/root/vumc.php?test_id=338&doc=24499&site=vpls
+IDH2	R140Q	The R140Q mutation results in an amino acid substitution at position 140 in IDH2, from an arginine (R) to a glutamine (Q). The prognostic significance of this mutation is unclear (Dohner and Gaidzik 2011; Shih et al. 2012). In patients with normal karyotype and an NPM1 mutation, IDH2 mutations are associated with favorable prognosis in AML (Patel et al. 2012).​Contributors: Scott  Wheeler, Ph.D., Adam  Seegmiller, M.D., Ph.D., Cindy L. Vnencak-Jones, Ph.D. Great effort was made to include all clinical trials relevant for this mutation. However, the completeness of this information cannot be guaranteed. http://www.mycancergenome.org/content/disease/acute-myeloid-leukemia/idh2/266/
+AKT2	amplification	Click edit to complete variant description
+IL7R	237-255_indel or S185C	Click edit to complete variant description
+IL7R	237-255_indel or S185C	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+JAK1	S646F	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+JAK2	R683	Click edit to complete variant description
+JAK3	R657Q	Click edit to complete variant description
+JAK3	I87T	Click edit to complete variant description
+JAK3	Q501H	Click edit to complete variant description
+JAK3	A572V	Click edit to complete variant description
+JAK3	A573V	Click edit to complete variant description
+KDR	A1065T	Click edit to complete variant description
+KIT	N822K	http://www.mycancergenome.org/content/disease/melanoma/kit/84/
+KIT	exon 8 p.416-422	Click edit to complete variant description
+KIT	V559I, H687Y, T670, V654A, A829P, D816, N822, Y823D	Click edit to complete variant description
+KIT	exon 9 p.449-514	Click edit to complete variant description
+KIT	exon 9 p.449-514	Click edit to complete variant description
+KIT	exon 9 p.449-514	Click edit to complete variant description
+KIT	exon 9 p.449-514	Click edit to complete variant description
+KIT	exon 11 p.550-592	Click edit to complete variant description
+KIT	exon 11 p.550-592	Click edit to complete variant description
+KIT	exon 11 p.550-592	Click edit to complete variant description
+KIT	exon 11 p.550-592	Click edit to complete variant description
+KIT	exon 11 p.550-592	Click edit to complete variant description
+KIT	exon 14 p.664-714	Click edit to complete variant description
+KIT	exon 14 p.664-714	Click edit to complete variant description
+KIT	exon 17 p.788-828	Click edit to complete variant description
+KIT	exon 17 p.788-828	Click edit to complete variant description
+KIT	exon 17 p.788-828	Click edit to complete variant description
+KIT	exon 17 p.788-828	Click edit to complete variant description
+KIT	exon 17 p.788-828	Click edit to complete variant description
+KIT	exon 17 p.788-828, exon 18 p.829-860	Click edit to complete variant description
+KIT	T670I	Click edit to complete variant description
+KIT	A82P9, V654A, T670I	Click edit to complete variant description
+KIT	exon 11 p.550-592, exon 13 p.627-664	Click edit to complete variant description
+KIT	exon 11 p.550-592, exon 13 p.627-664	Click edit to complete variant description
+KIT	exon 11 p.550-592, exon 13 p.627-664	Click edit to complete variant description
+KIT	exon 11 p.550-592, exon 13 p.627-664	Click edit to complete variant description
+KIT	exon 11 p.550-592, exon 13 p.627-664	Click edit to complete variant description
+KIT	exon 17 p.788-828, exon 18 p.829-860	Click edit to complete variant description
+KIT	exon 17 p.788-828, exon 18 p.829-860	Click edit to complete variant description
+KIT	D820Y	http://www.mycancergenome.org/content/disease/melanoma/kit/84/
+KIT	D820Y	http://www.mycancergenome.org/content/disease/melanoma/kit/84/
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+KIT	Y553N	http://www.mycancergenome.org/content/disease/thymic-carcinoma/kit/124/
+KIT	Y553N	http://www.mycancergenome.org/content/disease/thymic-carcinoma/kit/124/
+KIT	D820E	http://www.mycancergenome.org/content/disease/thymic-carcinoma/kit/120/
+KIT	del577-578579	Click edit to complete variant description
+KIT	V560del	http://www.mycancergenome.org/content/disease/thymic-carcinoma/kit/123/
+KIT	H697Y	http://www.mycancergenome.org/content/disease/thymic-carcinoma/kit/121/
+KIT	exon 13 p.627-664	Click edit to complete variant description
+KIT	exon 13 p.627-664	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+HRAS	codon 12	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 146	Click edit to complete variant description
+KRAS	codon 146	Click edit to complete variant description
+HRAS	codon 12	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+MAP2K1	I99T	Click edit to complete variant description
+MAP2K1	L115	Click edit to complete variant description
+MAP2K1	G128D	Click edit to complete variant description
+MAP2K1	F129L	Click edit to complete variant description
+MAP2K1	F129L	Click edit to complete variant description
+MAP2K1	V211D	Click edit to complete variant description
+MAP2K1	L215P	Click edit to complete variant description
+MAP2K1	L215P	Click edit to complete variant description
+MAP2K1	I103N	Click edit to complete variant description
+MAP2K1	I103N	Click edit to complete variant description
+MAP2K1	K104N	Click edit to complete variant description
+MAP2K1	I111N	Click edit to complete variant description
+MAP2K1	H119P	Click edit to complete variant description
+MAP2K1	E120D	Click edit to complete variant description
+MAP2K1	F133L	Click edit to complete variant description
+MAP2K1	P124	Click edit to complete variant description
+MAP2K1	P124	Click edit to complete variant description
+MAP2K1	D67N	http://www.mycancergenome.org/content/disease/lung-cancer/map2k1/60/
+MAP2K1	P124L	http://www.mycancergenome.org/content/disease/melanoma/map2k1/213/
+MAP2K1	P124	Click edit to complete variant description
+MAP2K1	P124	Click edit to complete variant description
+MAP2K1	I111S	http://www.mycancergenome.org/content/disease/melanoma/map2k1/211/
+MAP2K1	K57E	Click edit to complete variant description
+MAP2K1	K57N	http://www.mycancergenome.org/content/disease/lung-cancer/map2k1/72/
+MAP2K1	C121S	http://www.mycancergenome.org/content/disease/melanoma/map2k1/212/
+MAP2K1	C121S	http://www.mycancergenome.org/content/disease/melanoma/map2k1/212/
+MAP2K1	E203K	http://www.mycancergenome.org/content/disease/melanoma/map2k1/215/
+MAP2K1	E203K	http://www.mycancergenome.org/content/disease/melanoma/map2k1/215/
+ARAF	unknown	http://www.mc.vanderbilt.edu/root/vumc.php?test_id=338&doc=24499&site=vpls
+MAP2K2	Q60P	Click edit to complete variant description
+MAP2K2	Q60P	Click edit to complete variant description
+MAP2K2	V35M, L46F, N126D, C125S	Click edit to complete variant description
+MAP2K2	V35M, L46F, N126D, C125S	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+MET	V1092I	Click edit to complete variant description
+MET	H1049R	Click edit to complete variant description
+MET	M1250I	Click edit to complete variant description
+MET	R988C	Click edit to complete variant description
+MET	T1010I	Click edit to complete variant description
+MET	Y1230C	Click edit to complete variant description
+MET	Y1235D	Click edit to complete variant description
+MET	H1112L	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+MET	M1268T	Click edit to complete variant description
+MET	H1094R	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+MPL	W515F	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+MTOR	L1460P	Click edit to complete variant description
+MTOR	S2215Y	Click edit to complete variant description
+MTOR	R2505P	Click edit to complete variant description
+MTOR	Q2223K	Click edit to complete variant description
+MTOR	E2014K	Click edit to complete variant description
+MTOR	E2419K	Click edit to complete variant description
+MTOR	N1421D	Click edit to complete variant description
+MTOR	I1973F	Click edit to complete variant description
+MTOR	K1771R	Click edit to complete variant description
+MTOR	F2108L	Click edit to complete variant description
+MTOR	F2108L	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+MYD88	L265P	http://www.vicc.org/ct/protocol-results.php?protocol-no=VICCHEM1490
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+NF1	D1644A	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+NOTCH1	PEST domain p.2245-2536	Click edit to complete variant description
+NOTCH1	PEST domain p.2245-2536	Click edit to complete variant description
+NOTCH1	PEST domain p.2245-2536	Click edit to complete variant description
+NOTCH1	PEST domain p.2245-2536	Click edit to complete variant description
+NOTCH1	PEST domain p.2245-2536	Click edit to complete variant description
+NOTCH1	PEST domain p.2245-2536	Click edit to complete variant description
+NOTCH1	HD p.1529-1723	Click edit to complete variant description
+NOTCH1	HD p.1529-1723	Click edit to complete variant description
+NOTCH1	HD p.1529-1723	Click edit to complete variant description
+NOTCH1	HD p.1529-1723	Click edit to complete variant description
+NOTCH1	HD p.1529-1723	Click edit to complete variant description
+NOTCH2	PEST domain p.2010-2472	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+KRAS	codon 12, 13, 61	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+PDGFRA	P577S, R841K, H845Y, G853D	Click edit to complete variant description
+PDGFRA	T674I	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+PDGFRA	V658A	Click edit to complete variant description
+PDGFRA	V658A	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+KIT	wild type	Click edit to complete variant description
+PDGFRA	exon 12 p.552-596	Click edit to complete variant description
+PDGFRA	exon 14 p.631-668	Click edit to complete variant description
+PDGFRA	exon 18 p.814-854	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+PIK3R2	A171V	Click edit to complete variant description
+PIK3R2	N561D	Click edit to complete variant description
+PLCG2	R665W, L845F	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+RAC1	P29S	Click edit to complete variant description
+RAD50	L1237F	Click edit to complete variant description
+RAF1	S257P	Click edit to complete variant description
+RAF1	P261P	Click edit to complete variant description
+RAF1	G361A	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+RET	codon 618, 620, 634, 768, 791, 891, 918	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+ROS1	G2032R	Click edit to complete variant description
+ROS1	G2032R	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+SF3B1	K700E, others (pending)	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+SMO	D473H	http://www.mycancergenome.org/content/disease/medulloblastoma/smo/163/
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+STK11	D194E	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT3	rearrangement	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+TP53	R248Q, R172H	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+APC	any	Click edit to complete variant description
+AKT2	amplification	Click edit to complete variant description

@@ -25,7 +25,8 @@ class Importer
       if @@cosmic_variants == nil        
         @@cosmic_variants = IO.readlines(File.join(__dir__, 'cosmic-variant-aa-names.txt')).each {|l| l.chomp!}
       end
-      variant_name.split('/').slice(0,0).select{|n| n == n.upcase }.each { |v|
+      #variant_name.split('/').slice(0,0).select{|n| n == n.upcase }.each { |v|
+      [variant_name].each { |v|
         # url = "http://searchvu.vanderbilt.edu/search?as_epq=#{v}+mutation&client=mycancergenome"
         # xml = Nokogiri::XML(Scrapers::Util.make_get_request(url)) 
         # return v if xml.xpath("/GSP/RES[1]").size == 1      
@@ -42,9 +43,13 @@ class Importer
           url = xml.xpath("/GSP/RES[1]/R[1]/U[1]").text
           if !url.blank?
             xml = Nokogiri::XML(Scrapers::Util.make_get_request(url)) 
-            description = xml.xpath('//*[@id="section-content-container"]/div[3]/div/p[1]').text
+            description = xml.xpath('//*[@id="section-content-container"]/div[3]//p[1]').text
+            description << "#{url}"
+            description.gsub!("\n", " ")  if !description.blank?
             return description if !description.blank?
           end
+        else
+          puts "#{v} not found in cosmic AA variants"
         end
       }
       nil
@@ -59,7 +64,26 @@ class Importer
       # per Obi Griffith (ps these genes don't exist in Rodrigo > 7.0)
       self.gene_name = "KMT2A" if self.gene_name == "MLL" 
       self.gene_name = "MLH1" if self.gene_name == "MSH1"
-      #      
+      #            
+      
+      # Gene named AR-V7 not found!
+     #  Gene named BCR-ABL1 not found!
+     #  Gene named BCR-ABL1 not found!
+     #  Gene named BCR-ABL1 not found!
+     #  Gene named BCR-ABL1 not found!
+     #  Gene named BCR-JAK2 not found!
+     #  Gene named COL1A1-PDGFRB not found!
+     #  Gene named INI1 not found!
+     #  Gene named PML-RARA not found!
+     #  Gene named RET-PTC1 not found!
+     #  Gene named RET-PTC1 not found!   
+     self.gene_name = "INI1" if self.gene_name == "SMARCB1"
+     puts(self.gene_name)
+     if (self.gene_name && self.gene_name.index("-") ) 
+       self.gene_name = gene_name.split("-")[0] 
+     end
+
+      
       gene = ::Gene.find_or_initialize_by(name: gene_name )
       if gene.new_record?
         (gene.entrez_id,gene.official_name,aliases,sources) = get_genenames_info(gene_name)
@@ -87,7 +111,6 @@ class Importer
 
       # set up the chain to from Gene->Variant->evidence
 
-  
       variant = ::Variant.find_or_initialize_by(:name => variant_name)
       if variant.new_record?
         puts ">>>>> new variant"
@@ -98,7 +121,7 @@ class Importer
         puts ">>>>> existing variant #{variant}"
       end
       evidence_item.variant = variant
-
+      evidence_item.variant_hgvs = "N/A"
 
       evidence_item.disease =  to_civic_disease
       
@@ -123,7 +146,19 @@ class Importer
       #  "decreased sensitivity",
       #  "increased benefit",
       #  "no sensitivity"]
-      evidence_item.clinical_significance = association ? association : "N/A" ;
+      clinical_significance_map = {  
+        "response"=>"Positive",
+        nil=>"N/A",
+        "sensitivity"=>"Sensitivity",
+        "resistance"=>"Resistance or Non-Response",
+        "reduced sensitivity"=>"Negative",
+        "no response"=>"Resistance or Non-Response",
+        "decreased sensitivity"=>"Negative",
+        "increased benefit"=>"Positive",
+        "no sensitivity"=>"Resistance or Non-Response"   
+      }
+      evidence_item.clinical_significance = clinical_significance_map[ association ]
+      evidence_item.description << "#{association}; " 
 
       evidence_item.drugs << drug.split(',').map{|n| to_civic_drug(n.strip)}
 
@@ -144,7 +179,8 @@ class Importer
       #  "gain-of-function (low activity)",
       #  "switch-of-function",
       #  "not applicable"]
-      evidence_item.evidence_direction =  effect.blank? ? "N/A" : effect ;
+      evidence_item.evidence_direction = "Supports" # effect.blank? ? "N/A" : effect ;
+      evidence_item.description << "#{effect}; " 
 
 
 
@@ -153,7 +189,9 @@ class Importer
       #["Diagnostic", "Predictive", "Prognostic"]
       ## in Rodrigo  evidence
       # ["consensus", "emerging", "", nil]
-      evidence_item.evidence_type = EvidenceType.find_or_initialize_by(:evidence_type => !evidence.blank? ? evidence : "N/A")
+      # TODO
+      # evidence_item.evidence_type =  EvidenceType.find_or_initialize_by(:evidence_type => !evidence.blank? ? evidence : "N/A")
+      evidence_item.description << "#{evidence}; " 
 
       #  evidence level
       # "A" validated
@@ -173,27 +211,32 @@ class Importer
       #  "early trials, case report",
       #  "late trials, preclinical"]
 
-      if status
-        evidence_item.evidence_level = ::EvidenceLevel.find_or_initialize_by(:level => status)                
-      else  
-        evidence_item.evidence_level = ::EvidenceLevel.find_or_initialize_by(:level => "Unknown")        
-      end
+      evidence_level_map = {
+        "NCCN guidelines" => "A" ,
+        "case report" => "B",
+        "preclinical" => "B",
+        "FDA-approved" => "A",
+        "early trials" => "C",
+        "late trials" => "C",
+        "NCCN/ CAP guidelines" => "A",
+        "" => "D",
+        nil => "D",
+        "FDA-rejected" => "D",
+        "early trials, case report" => "C", 
+        "late trials, preclinical" => "C" 
+      }
+      evidence_item.evidence_level = evidence_level_map[ status ]
+      evidence_item.description << "#{status}; " 
       
 
-      # evidence type
+      # TODO - evidence type
       # ["Diagnostic","Predictive","Prognostic"]
-      #expand from: therapeutic_association      
-      if association
-        evidence_item.evidence_type = ::EvidenceType.find_or_initialize_by(:evidence_type => association)
-      else  
-        evidence_item.evidence_type = ::EvidenceType.find_or_initialize_by(:evidence_type => "Unknown")
-      end
-
+      #expand from: CGD::therapeutic_association      
+      
 
       # TODO - variant origin
       # Somatic mutations are not transmitted to progeny, but germinal mutations may be transmitted to some or all progeny.
       # ["Somatic","Germline"]
-      evidence_item.variant_origin = ::VariantOrigin.find_or_initialize_by(:origin => "Unknown")
 
       evidence_item
     end  
@@ -230,7 +273,8 @@ class Importer
       end
       drug
     end     
-    
+
+        
     private # --------------------
     def unknown_disease
       disease = ::Disease.find_or_initialize_by(:name => "Unknown" ) 
@@ -298,6 +342,42 @@ class Importer
 
   end
 
+  def export(last_gene_id, last_variant_id,last_evidence_item_id)
+    genes = []
+    variants = []
+    evidence = []
+    @evidence.each {|e| 
+      ei = e.to_civic_evidence
+      ei.save! 
+      evidence << ei.to_tsv if ei.id > last_evidence_item_id
+      ei.variant.save! if !ei.variant.id
+      variants << ei.variant.to_tsv if ei.variant.id > last_variant_id
+      ei.variant.gene.save! if !ei.variant.gene.id
+      genes << ei.variant.gene.to_tsv if ei.variant.gene.id > last_gene_id
+    }
+
+   File.open("import/ohsu-GeneSummaries.txt", 'w') { |file| 
+     file.write("entrez_gene\tSummary\tSources\n")
+     genes.each {|g| file.write(g) }
+   } 
+
+   File.open("import/ohsu-VariantSummaries.txt", 'w') { |file| 
+     file.write("entrez_gene\tvariant\tSummary\n")
+     variants.each {|v| file.write(v) }
+   }
+
+   File.open("import/ohsu-ClinActionEvidence.txt", 'w') { |file| 
+     file.write("entrez_gene\tentrez_id\tvariant\tvariant_hgvs\tvariant_origin\tDisease\tDOID\tDrug\tpubchem_id\tEvidence Type\tEvidence Direction\tClinical Significance\tStatement\tLevel\tSource\tText\tType of study\tComments\tCurator\tstars\tInclude?\tVariant Group\t\n")
+     evidence.each {|e| file.write(e) }
+   }
+
+   File.open("import/ohsu-VariantGroupSummaries.txt", 'w') { |file| 
+     file.write("Variant_Group\tSummary\n") 
+   }            
+   "done"
+  end
+  
+
   def with_multiple_variants
     @evidence.map {|e| e if e.variant_name.include?("/")}.compact
   end
@@ -335,17 +415,17 @@ class EvidenceItem
       tsv << "#{variant.gene.entrez_id}#{separator}"  # entrez_id  
       tsv << "#{variant.name}#{separator}"    # variant
       tsv << "#{variant_hgvs}#{separator}"     # variant_hgvs
-      tsv << "#{variant_origin.origin}#{separator}"    # variant_origin
+      tsv << "#{variant_origin}#{separator}"    # variant_origin
       tsv << "#{disease.name}#{separator}"    # Disease
       tsv << "#{disease.doid}#{separator}"    # DOID
       tsv << "#{drug.name}#{separator}"    # Drug
       tsv << "#{drug.pubchem_id}#{separator}"    # pubchem_id
 
-      tsv << "#{evidence_type.evidence_type}#{separator}"    # Evidence Type
+      tsv << "#{evidence_type}#{separator}"    # Evidence Type
       tsv << "#{evidence_direction}#{separator}"    # Evidence Direction
       tsv << "#{clinical_significance}#{separator}"   # Clinical Significance
       tsv << "#{description}#{separator}"    # Statement
-      tsv << "#{evidence_level.level}#{separator}"     #Level
+      tsv << "#{evidence_level}#{separator}"     #Level
       tsv << "#{source.pubmed_id}#{separator}"     #Source
        tsv << "#{separator}"     #Text
        tsv << "#{separator}"     #Type of study

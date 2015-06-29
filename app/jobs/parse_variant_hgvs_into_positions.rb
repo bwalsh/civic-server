@@ -5,7 +5,7 @@ class ParseVariantHgvsIntoPositions < ActiveJob::Base
         hgvs = variant.evidence_items.map(&:variant_hgvs).reject { |x| x == 'N/A' }
         if hgvs.any?
           if hgvs.uniq.size > 1
-            puts "Conflicting positional information for #{gene.name}:#{variant.name}"
+            puts "Conflicting positional information for #{variant.gene.name}:#{variant.name}"
           elsif position_data = extract_positions(hgvs.first)
             variant.chromosome = position_data[:chr]
             variant.start = position_data[:start]
