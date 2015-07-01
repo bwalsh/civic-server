@@ -1,0 +1,29 @@
+---
+beacon:
+  id: civic.genome.wustl.edu
+  name: Washington University
+  organization: www.example.com
+  api: '0.2'
+  description: beacon description
+  datasets:
+  - id: civic.genome.wustl.edu
+    description: Variants, drugs and diseases
+    reference: HG19
+    size:
+      variants: 54
+      samples: 397
+    data_uses:
+    - category: public
+      description: no protected health information
+      requirements:
+      - name: evidence
+        description: evidence maintained in CIViC
+  homepage: http://www.example.com/api/ga4gh/beacon/query?chrom=14&pos=105246&allele=C
+  email: beacon@www.example.com
+  auth: none
+  queries:
+  - allele: C
+    chromosome: '14'
+    position: 105246551
+    reference: HG19
+    dataset_id: civic.genome.wustl.edu
